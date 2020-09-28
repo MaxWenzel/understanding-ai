@@ -1,13 +1,35 @@
 # understanding-ai
 Collection of AI relevant stuff
 
+## Courses
 
+- [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing): Coursera
+
+### Python
+
+- [Real Python](https://realpython.com/): Python Tutorials
+- [Lean Python](https://www.learnpython.org/): started learning Python
+
+## AI Trainingsdata
+
+- [Kaggle](https://www.kaggle.com/): code & data you need to do your data science work. 
+- [Tencent ML-Images](https://github.com/Tencent/tencent-ml-images): the largest open-source multi-label image database
+- [ImageNet](http://image-net.org/): an image database organized according to the WordNet hierarchy (currently only the nouns), in which each node of the hierarchy is depicted by hundreds and thousands of images.
+- [MNIST](http://yann.lecun.com/exdb/mnist/): a good database for people who want to try learning techniques and pattern recognition methods on real-world data while spending minimal efforts on preprocessing and formatting.
 
 ## Blogs
 
 - [DeepNett-Blog](http://www.deepnetts.com/blog/)
 
-## Courses
+
+## Online Training
+
+- [Google Colaboratory](https://colab.research.google.com/)
+
+## Papers
+
+- [Papers with Code](https://paperswithcode.com/): The latest in machine learning
+- [arXiv](https://arxiv.org/): a free distribution service and an open-access archive
 
 ## Frameworks
 
