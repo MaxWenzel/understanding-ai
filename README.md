@@ -25,6 +25,8 @@ Collection of AI relevant stuff
 ## Online Training
 
 - [Google Colaboratory](https://colab.research.google.com/)
+- [RapidMiner](https://rapidminer.com/get-started/): provides a data science platform to help you drive real business impact.
+
 
 ## Papers
 
@@ -60,3 +62,19 @@ built on top of the Python programming language
 - [Weka](https://www.cs.waikato.ac.nz/ml/weka/): open source machine learning software that can be accessed through a graphical user interface, standard terminal applications, or a Java API
 - [MOA](https://github.com/Waikato/moa): the most popular open source framework for data stream mining, with a very active growing community
 - [DeepNetts](https://www.deepnetts.com/): Java Deep Learning Library and Development Tool.
+
+- [Neuroph](http://neuroph.sourceforge.net/): a Java framework that can be used for creating neural networks. 
+- [ND4J](https://github.com/deeplearning4j/nd4j): scientific computing library for the JVM. 
+- [OpenNLP](https://opennlp.apache.org/): a machine learning based toolkit for the processing of natural language text.
+- [Standford CoreNLP](https://stanfordnlp.github.io/CoreNLP/): natural language processing in Java
+- [Smile](https://haifengl.github.io/): Statistical Machine Intelligence and Learning Engine
+- [Tweety](https://tweetyproject.org/): a comprehensive collection of Java libraries for logical aspects of artificial intelligence and knowledge representation
+- [EJJ](https://cs.gmu.edu/~eclab/projects/ecj/): a Java-based Evolutionary Computation Research System
+- [JGAP](https://sourceforge.net/projects/jgap/): a Genetic Algorithms and Genetic Programming package written in Java.
+- [Arbiter](https://github.com/deeplearning4j/Arbiter): a tool dedicated to tuning (hyperparameter optimization) of machine learning models. Part of the DL4J Suite of Machine Learning / Deep Learning tools for the enterprise.
+
+### Misc
+
+- [Weka](https://www.cs.waikato.ac.nz/ml/weka/): workbench for machine learning
+
+
