@@ -4,6 +4,7 @@ Collection of AI relevant stuff
 ## Courses
 
 - [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing): Coursera
+- [deeplearning.ai](https://www.deeplearning.ai/)
 
 ### Python
 
