@@ -5,6 +5,12 @@ Collection of AI relevant stuff
 
 - [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing): Coursera
 - [deeplearning.ai](https://www.deeplearning.ai/)
+- [Google AI](https://ai.google/education/): Learn from ML experts at Google
+- [Machine Learning](https://www.coursera.org/learn/machine-learning): Andrew Ng
+- [Fundamentals of Deep Learning for Computer Vision](): Nvidia
+- []():
+- []():
+- []():
 
 ### Python
 
