@@ -49,6 +49,7 @@ Collection of AI relevant stuff
 
 - [PyCaret](https://pycaret.org/): an open source, low-code machine learning library in Python that allows you to go from preparing your data to deploying your model within minutes in your choice of notebook environment
 - [PyTorch](https://pytorch.org/): an open source machine learning framework that accelerates the path from research prototyping to production deployment
+- [Imaginaire](https://github.com/NVlabs/imaginaire): a pytorch library that contains optimized implementation of several image and video synthesis methods developed at NVIDIA.
 - [Pandas](https://pandas.pydata.org/): a fast, powerful, flexible and easy to use open source data analysis and manipulation tool,
 built on top of the Python programming language
 - [NumPy](https://numpy.org/): fundamental package for scientific computing with Python
@@ -62,7 +63,6 @@ built on top of the Python programming language
 
 - [Danfo](https://github.com/opensource9ja/danfojs): an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
 - [Tensorflow](https://www.tensorflow.org/js): a library for machine learning in JavaScript
-- []():
 
 #### Java
 
