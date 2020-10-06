@@ -47,6 +47,7 @@ Collection of AI relevant stuff
 
 #### Mix
 
+- [scikit-learn](https://scikit-learn.org/stable/index.html): simple and efficient tools for predictive data analysis
 - [PyCaret](https://pycaret.org/): an open source, low-code machine learning library in Python that allows you to go from preparing your data to deploying your model within minutes in your choice of notebook environment
 - [PyTorch](https://pytorch.org/): an open source machine learning framework that accelerates the path from research prototyping to production deployment
 - [Imaginaire](https://github.com/NVlabs/imaginaire): a pytorch library that contains optimized implementation of several image and video synthesis methods developed at NVIDIA.
