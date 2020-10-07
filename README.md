@@ -8,9 +8,7 @@ Collection of AI relevant stuff
 - [Google AI](https://ai.google/education/): Learn from ML experts at Google
 - [Machine Learning](https://www.coursera.org/learn/machine-learning): Andrew Ng
 - [Fundamentals of Deep Learning for Computer Vision](): Nvidia
-- []():
-- []():
-- []():
+
 
 ### Python
 
@@ -47,6 +45,7 @@ Collection of AI relevant stuff
 
 #### Mix
 
+- [NVIDIA NeMo](https://github.com/NVIDIA/NeMo): a toolkit for creating Conversational AI applications.
 - [scikit-learn](https://scikit-learn.org/stable/index.html): simple and efficient tools for predictive data analysis
 - [PyCaret](https://pycaret.org/): an open source, low-code machine learning library in Python that allows you to go from preparing your data to deploying your model within minutes in your choice of notebook environment
 - [PyTorch](https://pytorch.org/): an open source machine learning framework that accelerates the path from research prototyping to production deployment
