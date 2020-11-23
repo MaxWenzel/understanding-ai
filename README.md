@@ -8,6 +8,7 @@ Collection of AI relevant stuff
 - [Google AI](https://ai.google/education/): Learn from ML experts at Google
 - [Machine Learning](https://www.coursera.org/learn/machine-learning): Andrew Ng
 - [Fundamentals of Deep Learning for Computer Vision](): Nvidia
+- [fast.ai](https://www.fast.ai/about/): free courses for coders 
 
 
 ### Python
