@@ -82,6 +82,18 @@ built on top of the Python programming language
 - [JGAP](https://sourceforge.net/projects/jgap/): a Genetic Algorithms and Genetic Programming package written in Java.
 - [Arbiter](https://github.com/deeplearning4j/Arbiter): a tool dedicated to tuning (hyperparameter optimization) of machine learning models. Part of the DL4J Suite of Machine Learning / Deep Learning tools for the enterprise.
 
+- [Jenetics](https://jenetics.io/): a Genetic Algorithm, Evolutionary Algorithm, Genetic Programming, and Multi-objective Optimization library, written in modern-day Java.
+- [Dagli](https://github.com/linkedin/dagli): Framework for defining machine learning models, including feature generation and transformations, as directed acyclic graphs (DAGs).
+- [Tribuo](https://github.com/oracle/tribuo): a machine learning library in Java that provides multi-class classification, regression, clustering, anomaly detection and multi-label classification. Tribuo provides implementations of popular ML algorithms and also wraps other libraries to provide a unified interface. 
+- [Spark MlLib](https://spark.apache.org/mllib/): Apache Spark's scalable machine learning library.
+- [Open NLP](https://opennlp.apache.org/): a machine learning based toolkit for the processing of natural language text.
+- [Apache Mahout](http://mahout.apache.org/): a distributed linear algebra framework and mathematically expressive Scala DSL designed to let mathematicians, statisticians, and data scientists quickly implement their own algorithms. Apache Spark is the recommended out-of-the-box distributed back-end, or can be extended to other distributed backends.
+- [Smile](https://github.com/haifengl/smile): a fast and comprehensive machine learning, NLP, linear algebra, graph, interpolation, and visualization system in Java and Scala. 
+- [Kotlin∇](https://github.com/breandan/kotlingrad): a type-safe automatic differentiation framework in Kotlin. It allows users to express differentiable programs with higher-dimensional data structures and operators. 
+- [Facebook AI Tools](https://ai.facebook.com/tools/#libraries-models-and-datasets): Cutting edge open source frameworks, tools, libraries, and models for research exploration to large-scale production deployment.
+- [AWS DJL](https://github.com/awslabs/djl): an open-source, high-level, engine-agnostic Java framework for deep learning. DJL is designed to be easy to get started with and simple to use for Java developers. DJL provides a native Java development experience and functions like any other regular Java library.
+- [Apache Ignite](https://github.com/apache/ignite): an in-memory database that includes a machine learning framework.
+
 ### Misc
 
 - [Weka](https://www.cs.waikato.ac.nz/ml/weka/): workbench for machine learning
