@@ -59,6 +59,9 @@ built on top of the Python programming language
 - [MXNet](https://mxnet.apache.org/versions/1.6/): a open source deep learning framework suited for flexible research prototyping and production.
 - [Singa](https://singa.apache.org/): focusing on distributed training of deep learning and machine learning models
 - [Matplotlib](https://matplotlib.org/): a comprehensive library for creating static, animated, and interactive visualizations in Python.
+- [VISSL](https://vissl.ai/): A library for state-of-the-art self-supervised learning
+- [Theano](https://github.com/Theano/Theano): a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation.
+- 
 
 #### JavaScript
 
