@@ -40,10 +40,14 @@ Collection of AI relevant stuff
 - [RapidMiner](https://rapidminer.com/get-started/): provides a data science platform to help you drive real business impact.
 
 
-## Papers
+## Archives
 
 - [Papers with Code](https://paperswithcode.com/): The latest in machine learning
 - [arXiv](https://arxiv.org/): a free distribution service and an open-access archive
+
+## Papers
+
+- [On the Principles of Parsimony and Self-Consistency for the Emergence of Intelligence](https://arxiv.org/abs/2207.04630)
 
 ## Frameworks
 
