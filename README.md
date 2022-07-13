@@ -9,7 +9,11 @@ Collection of AI relevant stuff
 - [Machine Learning](https://www.coursera.org/learn/machine-learning): Andrew Ng
 - [Fundamentals of Deep Learning for Computer Vision](): Nvidia
 - [fast.ai](https://www.fast.ai/about/): free courses for coders 
-
+- [Elements of AI](https://www.elementsofai.com/): The Elements of AI is a series of free online courses created by MinnaLearn and the University of Helsinki.
+- [Building AI](https://buildingai.elementsofai.com/): Building AI a flexible online course for anyone who wants to learn about the practical methods that make artificial intelligence a reality. 
+- [KI Campus](https://ki-campus.org/): A learning platform for artificial intelligence
+- [Machine Learning Introduction by Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction): 3-course program by AI visionary Andrew Ng
+- [Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/): This course explores the concepts and algorithms at the foundation of modern artificial intelligence, diving into the ideas that give rise to technologies like game-playing engines, handwriting recognition, and machine translation. 
 
 ### Python
 
@@ -23,6 +27,7 @@ Collection of AI relevant stuff
 - [ImageNet](http://image-net.org/): an image database organized according to the WordNet hierarchy (currently only the nouns), in which each node of the hierarchy is depicted by hundreds and thousands of images.
 - [MNIST](http://yann.lecun.com/exdb/mnist/): a good database for people who want to try learning techniques and pattern recognition methods on real-world data while spending minimal efforts on preprocessing and formatting.
 - [Cifar-10 / Cifar-100](https://www.cs.toronto.edu/~kriz/cifar.html): labeled subsets of the 80 million tiny images dataset 
+- [Bloom](https://bigscience.notion.site/BLOOM-BigScience-176B-Model-ad073ca07cdf479398d5f95d88e218c4): BLOOM (BigScience Language Open-science Open-access Multilingual) has 176 billion parameters and has been trained on 1.5 terabytes of text.
 
 ## Blogs
 
