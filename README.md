@@ -17,7 +17,7 @@ Collection of AI relevant stuff
 - [Applied Edge AI: Deep Learning Outside of the Cloud](https://open.hpi.de/courses/edgeai2022): Compared to Cloud Computing, which is centralized in computing and data storage, Edge Computing brings computation and data storage closer to data sources.
 - [Praktische Einführung in Deep Learning für Computer Vision](https://open.hpi.de/courses/neuralnets2020)
 - [Künstliche Intelligenz und maschinelles Lernen für Einsteiger](https://open.hpi.de/courses/kieinstieg2020)
-- [](https://open.hpi.de/courses/pythonjunior2020)
+- [Programmieren lernen mit Python](https://open.hpi.de/courses/pythonjunior2020)
 - [Künstliche Intelligenz und Maschinelles Lernen in der Praxis](https://open.hpi.de/courses/kipraxis2021)
 
 
