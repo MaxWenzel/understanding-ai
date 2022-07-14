@@ -13,7 +13,13 @@ Collection of AI relevant stuff
 - [Building AI](https://buildingai.elementsofai.com/): Building AI a flexible online course for anyone who wants to learn about the practical methods that make artificial intelligence a reality. 
 - [KI Campus](https://ki-campus.org/): A learning platform for artificial intelligence
 - [Machine Learning Introduction by Andrew Ng](https://www.coursera.org/specializations/machine-learning-introduction): 3-course program by AI visionary Andrew Ng
-- [Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/): This course explores the concepts and algorithms at the foundation of modern artificial intelligence, diving into the ideas that give rise to technologies like game-playing engines, handwriting recognition, and machine translation. 
+- [Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2020/): This course explores the concepts and algorithms at the foundation of modern artificial intelligence, diving into the ideas that give rise to technologies like game-playing engines, handwriting recognition, and machine translation.
+- [Applied Edge AI: Deep Learning Outside of the Cloud](https://open.hpi.de/courses/edgeai2022): Compared to Cloud Computing, which is centralized in computing and data storage, Edge Computing brings computation and data storage closer to data sources.
+- [Praktische Einführung in Deep Learning für Computer Vision](https://open.hpi.de/courses/neuralnets2020)
+- [Künstliche Intelligenz und maschinelles Lernen für Einsteiger](https://open.hpi.de/courses/kieinstieg2020)
+- [](https://open.hpi.de/courses/pythonjunior2020)
+- [Künstliche Intelligenz und Maschinelles Lernen in der Praxis](https://open.hpi.de/courses/kipraxis2021)
+
 
 ### Python
 
