@@ -34,6 +34,8 @@ Collection of AI relevant stuff
 - [MNIST](http://yann.lecun.com/exdb/mnist/): a good database for people who want to try learning techniques and pattern recognition methods on real-world data while spending minimal efforts on preprocessing and formatting.
 - [Cifar-10 / Cifar-100](https://www.cs.toronto.edu/~kriz/cifar.html): labeled subsets of the 80 million tiny images dataset 
 - [Bloom](https://bigscience.notion.site/BLOOM-BigScience-176B-Model-ad073ca07cdf479398d5f95d88e218c4): BLOOM (BigScience Language Open-science Open-access Multilingual) has 176 billion parameters and has been trained on 1.5 terabytes of text.
+- [Google Open Dataset Explorer](https://console.cloud.google.com/marketplace/browse?filter=solution-type:dataset&_ga=2.109653125.1829443508.1600090807-1298723367.1599811875&pli=1)
+- [Open Datasets UCI Machine Learning Repo](https://archive.ics.uci.edu/ml/index.php)
 
 ## Blogs
 
