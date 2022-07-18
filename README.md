@@ -36,11 +36,11 @@ Collection of AI relevant stuff
 - [Bloom](https://bigscience.notion.site/BLOOM-BigScience-176B-Model-ad073ca07cdf479398d5f95d88e218c4): BLOOM (BigScience Language Open-science Open-access Multilingual) has 176 billion parameters and has been trained on 1.5 terabytes of text.
 - [Google Open Dataset Explorer](https://console.cloud.google.com/marketplace/browse?filter=solution-type:dataset&_ga=2.109653125.1829443508.1600090807-1298723367.1599811875&pli=1)
 - [Open Datasets UCI Machine Learning Repo](https://archive.ics.uci.edu/ml/index.php)
-- [](https://huggingface.co/): Build, train and deploy state of the art models powered by the reference open source in machine learning.
+- [huggingface](https://huggingface.co/): Build, train and deploy state of the art models powered by the reference open source in machine learning.
 
 ## AI news
 
-- [](https://research.aimultiple.com/)
+- [AI Research Blog](https://research.aimultiple.com/)
 
 
 ## Blogs
