@@ -20,6 +20,9 @@ Collection of AI relevant stuff
 - [Programmieren lernen mit Python](https://open.hpi.de/courses/pythonjunior2020)
 - [Künstliche Intelligenz und Maschinelles Lernen in der Praxis](https://open.hpi.de/courses/kipraxis2021)
 
+## Videos
+
+- [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi):
 
 ### Python
 
