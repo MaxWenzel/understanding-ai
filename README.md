@@ -80,6 +80,7 @@ Collection of AI relevant stuff
 ## Papers
 
 - [On the Principles of Parsimony and Self-Consistency for the Emergence of Intelligence](https://arxiv.org/abs/2207.04630)
+- [StudioGAN: A Taxonomy and Benchmark of GANs for Image Synthesis](https://arxiv.org/abs/2206.09479?context=cs)
 
 ## Frameworks
 
