@@ -19,6 +19,7 @@ Collection of AI relevant stuff
 - [Künstliche Intelligenz und maschinelles Lernen für Einsteiger](https://open.hpi.de/courses/kieinstieg2020)
 - [Programmieren lernen mit Python](https://open.hpi.de/courses/pythonjunior2020)
 - [Künstliche Intelligenz und Maschinelles Lernen in der Praxis](https://open.hpi.de/courses/kipraxis2021)
+- [Python for Data Science](https://www.edx.org/course/python-for-data-science-2)
 
 
 ## Books
