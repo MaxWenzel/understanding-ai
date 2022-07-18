@@ -1,6 +1,18 @@
 # understanding-ai
 Collection of AI relevant stuff
 
+## Tooling
+
+### Notebooks
+
+- [Apache Zeppelin](https://zeppelin.apache.org/): Web-based notebook that enables data-driven,
+interactive data analytics and collaborative documents with SQL, Scala, Python, R and more.
+- [Jupyter](https://jupyter.org/): JupyterLab is the latest web-based interactive development environment for notebooks, code, and data. Its flexible interface allows users to configure and arrange workflows in data science, scientific computing, computational journalism, and machine learning. A modular design invites extensions to expand and enrich functionality.
+- [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb?hl=en): Colab, or "Colaboratory", allows you to write and execute Python in your browser, with 
+-- Zero configuration required
+-- Access to GPUs free of charge
+-- Easy sharing
+
 ## Courses
 
 - [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing): Coursera
