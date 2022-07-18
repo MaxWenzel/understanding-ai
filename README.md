@@ -24,7 +24,7 @@ Collection of AI relevant stuff
 ## Books
 
 - Machine Learning kompakt, Andriy Burkov
-- (Dive into Deep Learning)[http://d2l.ai/]
+- [Dive into Deep Learning](http://d2l.ai/)
 - Pattern Recognition and Machine Learning, Christopher Bishop
 - Deep Learning, Ian Goodfellow
 - Prediction Machines, Ajay Agrawal
