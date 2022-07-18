@@ -20,6 +20,19 @@ Collection of AI relevant stuff
 - [Programmieren lernen mit Python](https://open.hpi.de/courses/pythonjunior2020)
 - [Künstliche Intelligenz und Maschinelles Lernen in der Praxis](https://open.hpi.de/courses/kipraxis2021)
 
+
+## Books
+
+- Machine Learning kompakt, Andriy Burkov
+- (Dive into Deep Learning)[http://d2l.ai/]
+- Pattern Recognition and Machine Learning, Christopher Bishop
+- Deep Learning, Ian Goodfellow
+- Prediction Machines, Ajay Agrawal
+- Artificial Intelligence: A Modern Approach, Peter Norvig and Stuart Russel
+- Architects of Intelligence, Martin Ford
+- AI-Superpowers, Kai-Fu Lee
+
+
 ## Videos
 
 - [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
