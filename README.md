@@ -46,6 +46,7 @@ Collection of AI relevant stuff
 ## Blogs
 
 - [DeepNett-Blog](http://www.deepnetts.com/blog/)
+- [IBM Blog: Machine Learning](https://www.ibm.com/cloud/learn/machine-learning)
 
 
 ## Online Training
