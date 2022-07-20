@@ -106,7 +106,7 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 
 ### Machine Learning & AI
 
-#### Mix
+#### Python (and other)
 
 - [NVIDIA NeMo](https://github.com/NVIDIA/NeMo): a toolkit for creating Conversational AI applications.
 - [scikit-learn](https://scikit-learn.org/stable/index.html): simple and efficient tools for predictive data analysis
@@ -123,7 +123,6 @@ built on top of the Python programming language
 - [Matplotlib](https://matplotlib.org/): a comprehensive library for creating static, animated, and interactive visualizations in Python.
 - [VISSL](https://vissl.ai/): A library for state-of-the-art self-supervised learning
 - [Theano](https://github.com/Theano/Theano): a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation.
-- 
 
 #### JavaScript
 
