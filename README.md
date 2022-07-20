@@ -13,6 +13,10 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
   - Access to GPUs free of charge
   - Easy sharing
 
+#### Plugins
+
+- [Rise](https://rise.readthedocs.io/en/stable/): With RISE, a Jupyter notebook extension, you can instantly turn your jupyter notebook into a live reveal.js-based presentation.
+
 ### IDE
 
 - [Spyder](https://www.spyder-ide.org/): Spyder is a free and open source scientific environment written in Python, for Python, and designed by and for scientists, engineers and data analysts.
