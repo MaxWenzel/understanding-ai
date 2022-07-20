@@ -37,6 +37,9 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 - [Künstliche Intelligenz und Maschinelles Lernen in der Praxis](https://open.hpi.de/courses/kipraxis2021)
 - [Python for Data Science](https://www.edx.org/course/python-for-data-science-2)
 
+## Tutorials
+
+- [Jupyter Tutorial](https://jupyter-tutorial.readthedocs.io/en/latest/intro.html)
 
 ## Books
 
