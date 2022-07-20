@@ -169,5 +169,6 @@ built on top of the Python programming language
 ### Misc
 
 - [Weka](https://www.cs.waikato.ac.nz/ml/weka/): workbench for machine learning
+- [OpenAI Gym](https://github.com/openai/gym): a toolkit for developing and comparing reinforcement learning algorithms.
 
 
