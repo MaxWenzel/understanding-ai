@@ -126,6 +126,8 @@ built on top of the Python programming language
 
 - [bottleneck](https://github.com/pydata/bottleneck): Fast NumPy array functions written in C
 - [PyYAML](https://pyyaml.org/wiki/PyYAMLDocumentation): PyYAML is a YAML parser and emitter for Python.
+- [Jinja](https://github.com/pallets/jinja): Jinja is a fast, expressive, extensible templating engine. Special placeholders in the template allow writing code similar to Python syntax. Then the template is passed data to render the final document.
+- [Jedi](https://jedi.readthedocs.io/en/latest/): Jedi is a static analysis tool for Python that is typically used in IDEs/editors plugins. Jedi has a focus on autocompletion and goto functionality. Other features include refactoring, code search and finding references.
 
 ### JavaScript
 
