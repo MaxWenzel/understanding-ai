@@ -104,9 +104,7 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 
 ## Frameworks
 
-### Machine Learning & AI
-
-#### Python (and other)
+### Python (and other)
 
 - [NVIDIA NeMo](https://github.com/NVIDIA/NeMo): a toolkit for creating Conversational AI applications.
 - [scikit-learn](https://scikit-learn.org/stable/index.html): simple and efficient tools for predictive data analysis
@@ -124,12 +122,17 @@ built on top of the Python programming language
 - [VISSL](https://vissl.ai/): A library for state-of-the-art self-supervised learning
 - [Theano](https://github.com/Theano/Theano): a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation.
 
-#### JavaScript
+### Helper
+
+- [bottleneck](https://github.com/pydata/bottleneck): Fast NumPy array functions written in C
+- [PyYAML](https://pyyaml.org/wiki/PyYAMLDocumentation): PyYAML is a YAML parser and emitter for Python.
+
+### JavaScript
 
 - [Danfo](https://github.com/opensource9ja/danfojs): an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.
 - [Tensorflow](https://www.tensorflow.org/js): a library for machine learning in JavaScript
 
-#### Java
+### Java
 
 - [Apache Flink ML](https://github.com/apache/flink-ml): Machine learning library of Apache Flink
 - [DL4J](https://deeplearning4j.org/): the first commercial-grade, open-source, distributed deep-learning library written for Java and Scala
