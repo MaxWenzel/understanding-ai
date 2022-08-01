@@ -125,6 +125,12 @@ built on top of the Python programming language
 - [Matplotlib](https://matplotlib.org/): a comprehensive library for creating static, animated, and interactive visualizations in Python.
 - [VISSL](https://vissl.ai/): A library for state-of-the-art self-supervised learning
 - [Theano](https://github.com/Theano/Theano): a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation.
+- [skorch](https://github.com/skorch-dev/skorch): a scikit-learn compatible neural network library that wraps PyTorch
+- []():
+- []():
+- []():
+- []():
+- []():
 
 ### Helper
 
@@ -132,6 +138,14 @@ built on top of the Python programming language
 - [PyYAML](https://pyyaml.org/wiki/PyYAMLDocumentation): PyYAML is a YAML parser and emitter for Python.
 - [Jinja](https://github.com/pallets/jinja): Jinja is a fast, expressive, extensible templating engine. Special placeholders in the template allow writing code similar to Python syntax. Then the template is passed data to render the final document.
 - [Jedi](https://jedi.readthedocs.io/en/latest/): Jedi is a static analysis tool for Python that is typically used in IDEs/editors plugins. Jedi has a focus on autocompletion and goto functionality. Other features include refactoring, code search and finding references.
+- [Pillow](https://pillow.readthedocs.io/en/stable/#): Python Imaging Library
+- [Wordcloud](https://pypi.org/project/wordcloud/): a little word cloud generator in Python
+- [seaborn](https://seaborn.pydata.org/): a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
+- [nltk](https://www.nltk.org/): a leading platform for building Python programs to work with human language data. It provides easy-to-use interfaces to over 50 corpora and lexical resources such as WordNet, along with a suite of text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning, wrappers for industrial-strength NLP libraries, and an active discussion forum.
+- [spaCy](https://spacy.io/): a free open-source library for Natural Language Processing in Python. It features NER, POS tagging, dependency parsing, word vectors and more.
+- [Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/#): a Python library for pulling data out of HTML and XML files. It works with your favorite parser to provide idiomatic ways of navigating, searching, and modifying the parse tree. It commonly saves programmers hours or days of work.
+- []():
+- []():
 
 ### JavaScript
 
