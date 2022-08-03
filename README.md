@@ -105,6 +105,7 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 
 - [On the Principles of Parsimony and Self-Consistency for the Emergence of Intelligence](https://arxiv.org/abs/2207.04630)
 - [StudioGAN: A Taxonomy and Benchmark of GANs for Image Synthesis](https://arxiv.org/abs/2206.09479?context=cs)
+- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805?hl=uk)
 
 ## Frameworks
 
@@ -144,7 +145,7 @@ built on top of the Python programming language
 - [nltk](https://www.nltk.org/): a leading platform for building Python programs to work with human language data. It provides easy-to-use interfaces to over 50 corpora and lexical resources such as WordNet, along with a suite of text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning, wrappers for industrial-strength NLP libraries, and an active discussion forum.
 - [spaCy](https://spacy.io/): a free open-source library for Natural Language Processing in Python. It features NER, POS tagging, dependency parsing, word vectors and more.
 - [Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/#): a Python library for pulling data out of HTML and XML files. It works with your favorite parser to provide idiomatic ways of navigating, searching, and modifying the parse tree. It commonly saves programmers hours or days of work.
-- []():
+- [Selenium](https://selenium-python.readthedocs.io/): Selenium Python bindings provides a simple API to write functional/acceptance tests using Selenium WebDriver. Through Selenium Python API you can access all functionalities of Selenium WebDriver in an intuitive way.
 - []():
 
 ### JavaScript
