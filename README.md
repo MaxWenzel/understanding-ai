@@ -47,6 +47,8 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 
 ### Python
 
+- [Real Python](https://realpython.com/): Python Tutorials
+- [Lean Python](https://www.learnpython.org/): started learning Python
 - [Python Cheatsheets](https://www.datacamp.com/cheat-sheet/category/python)
 - [Python-Kurs](https://python-kurs.eu/): German Python tutorial
 - [Künstliche Intelligenz und Maschinelles Lernen in der Praxis](https://open.hpi.de/courses/kipraxis2021)
@@ -73,10 +75,7 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 - [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [Machine Learning Foundations](https://www.youtube.com/watch?v=_Z9TRANg4c0&list=PLOU2XLYxmsII9mzQ-Xxug4l2o04JBrkLV)
 
-### Python
 
-- [Real Python](https://realpython.com/): Python Tutorials
-- [Lean Python](https://www.learnpython.org/): started learning Python
 
 ## AI Trainingsdata
 
