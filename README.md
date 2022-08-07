@@ -23,6 +23,7 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 
 ## Courses
 
+- [DeepMind x UCL RL Lecture Series](https://www.youtube.com/watch?v=TCCjZe0y4Qc&list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
 - [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing): Coursera
 - [deeplearning.ai](https://www.deeplearning.ai/)
 - [Google AI](https://ai.google/education/): Learn from ML experts at Google
