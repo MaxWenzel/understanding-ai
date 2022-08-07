@@ -3,6 +3,11 @@ Collection of AI relevant stuff
 
 ## Tooling
 
+## Languages
+
+- [Python](https://www.python.org/)
+- [Julia](https://julialang.org/)
+
 ### Notebooks
 
 - [Apache Zeppelin](https://zeppelin.apache.org/): Web-based notebook that enables data-driven,
@@ -39,6 +44,11 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 - [Praktische Einführung in Deep Learning für Computer Vision](https://open.hpi.de/courses/neuralnets2020)
 - [Künstliche Intelligenz und maschinelles Lernen für Einsteiger](https://open.hpi.de/courses/kieinstieg2020)
 - [Programmieren lernen mit Python](https://open.hpi.de/courses/pythonjunior2020)
+
+### Python
+
+- [Python Cheatsheets](https://www.datacamp.com/cheat-sheet/category/python)
+- [Python-Kurs](https://python-kurs.eu/): German Python tutorial
 - [Künstliche Intelligenz und Maschinelles Lernen in der Praxis](https://open.hpi.de/courses/kipraxis2021)
 - [Python for Data Science](https://www.edx.org/course/python-for-data-science-2)
 
