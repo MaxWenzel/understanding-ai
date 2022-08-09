@@ -69,6 +69,7 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 - Artificial Intelligence: A Modern Approach, Peter Norvig and Stuart Russel
 - Architects of Intelligence, Martin Ford
 - AI-Superpowers, Kai-Fu Lee
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/): free online book
 
 
 ## Videos
