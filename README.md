@@ -142,7 +142,7 @@ built on top of the Python programming language
 - [Theano](https://github.com/Theano/Theano): a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation.
 - [skorch](https://github.com/skorch-dev/skorch): a scikit-learn compatible neural network library that wraps PyTorch
 - [Chainer](https://chainer.org/): a powerful, flexible, and intuitive Framework for Neural Networks
-- []():
+- [EvoTorch](https://evotorch.ai/): designed to accelerate research and applications of Evolutionary Algorithms, with dedicated support for NeuroEvolution.
 - []():
 - []():
 - []():
