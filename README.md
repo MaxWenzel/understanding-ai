@@ -195,6 +195,10 @@ built on top of the Python programming language
 - [AWS DJL](https://github.com/awslabs/djl): an open-source, high-level, engine-agnostic Java framework for deep learning. DJL is designed to be easy to get started with and simple to use for Java developers. DJL provides a native Java development experience and functions like any other regular Java library.
 - [Apache Ignite](https://github.com/apache/ignite): an in-memory database that includes a machine learning framework.
 
+## Free Models
+
+- [Alpa](https://opt.alpa.ai/): a system for training and serving gigantic machine learning models. Alpa makes training and serving large models like GPT-3 simple, affordable, accessible to everyone.
+
 ### Misc
 
 - [Weka](https://www.cs.waikato.ac.nz/ml/weka/): workbench for machine learning
