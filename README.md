@@ -101,6 +101,8 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 - [huggingface](https://huggingface.co/): Build, train and deploy state of the art models powered by the reference open source in machine learning.
 - [COYO-700M](https://github.com/kakaobrain/coyo-dataset): Large-scale Image-Text Pair Dataset
 - [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release)
+- [Alpa](https://opt.alpa.ai/): a system for training and serving gigantic machine learning models. Alpa makes training and serving large models like GPT-3 simple, affordable, accessible to everyone.
+- [BERT](https://github.com/google-research/bert): TensorFlow code and pre-trained models for BERT
 
 ## AI news
 
@@ -164,9 +166,6 @@ built on top of the Python programming language
 - [skorch](https://github.com/skorch-dev/skorch): a scikit-learn compatible neural network library that wraps PyTorch
 - [Chainer](https://chainer.org/): a powerful, flexible, and intuitive Framework for Neural Networks
 - [EvoTorch](https://evotorch.ai/): designed to accelerate research and applications of Evolutionary Algorithms, with dedicated support for NeuroEvolution.
-- []():
-- []():
-- []():
 
 ### Helper
 
@@ -216,11 +215,8 @@ built on top of the Python programming language
 - [AWS DJL](https://github.com/awslabs/djl): an open-source, high-level, engine-agnostic Java framework for deep learning. DJL is designed to be easy to get started with and simple to use for Java developers. DJL provides a native Java development experience and functions like any other regular Java library.
 - [Apache Ignite](https://github.com/apache/ignite): an in-memory database that includes a machine learning framework.
 
-## Free Models
 
-- [Alpa](https://opt.alpa.ai/): a system for training and serving gigantic machine learning models. Alpa makes training and serving large models like GPT-3 simple, affordable, accessible to everyone.
-
-### Misc
+## Misc
 
 - [Weka](https://www.cs.waikato.ac.nz/ml/weka/): workbench for machine learning
 - [OpenAI Gym](https://github.com/openai/gym): a toolkit for developing and comparing reinforcement learning algorithms.
