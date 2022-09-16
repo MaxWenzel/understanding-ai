@@ -45,6 +45,14 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 - [Künstliche Intelligenz und maschinelles Lernen für Einsteiger](https://open.hpi.de/courses/kieinstieg2020)
 - [Programmieren lernen mit Python](https://open.hpi.de/courses/pythonjunior2020)
 - [PyImageSearch]{https://pyimagesearch.com/}: learn OpenCV, Object Detection, and Deep Learning
+- [Full Stack Deep Learning ](https://fullstackdeeplearning.com/course/2022/)
+- [The spelled-out intro to neural networks and backpropagation: building micrograd](https://www.youtube.com/watch?v=VMj-3S1tku0)
+- [GoogleResearch](https://www.youtube.com/c/GoogleResearch/featured)
+- [Deep Learning Course](https://fleuret.org/dlc/)
+- [First Principles of Computer Vision](https://www.youtube.com/channel/UCf0WB91t8Ky6AuYcQV0CcLw/playlists): 140 videos that you can watch at your pace. Slides are also provided to follow along.
+- [Machine Learning Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp)
+- [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course)
+- [How I would learn Machine Learning (if I could start over)](https://www.youtube.com/watch?v=wtolixa9XTg): Metacourse: which courses to choose
 
 ### Python
 
@@ -70,6 +78,7 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 - Architects of Intelligence, Martin Ford
 - AI-Superpowers, Kai-Fu Lee
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/): free online book
+- [Dive into Deep Learning](https://d2l.ai/index.html): free online book
 
 
 ## Videos
@@ -90,6 +99,8 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 - [Google Open Dataset Explorer](https://console.cloud.google.com/marketplace/browse?filter=solution-type:dataset&_ga=2.109653125.1829443508.1600090807-1298723367.1599811875&pli=1)
 - [Open Datasets UCI Machine Learning Repo](https://archive.ics.uci.edu/ml/index.php)
 - [huggingface](https://huggingface.co/): Build, train and deploy state of the art models powered by the reference open source in machine learning.
+- [COYO-700M](https://github.com/kakaobrain/coyo-dataset): Large-scale Image-Text Pair Dataset
+- [Stable Diffusion](https://stability.ai/blog/stable-diffusion-public-release)
 
 ## AI news
 
@@ -98,6 +109,7 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 
 ## Blogs
 
+- [Google AI Blog](https://ai.googleblog.com/)
 - [DeepNett-Blog](http://www.deepnetts.com/blog/)
 - [IBM Blog: Machine Learning](https://www.ibm.com/cloud/learn/machine-learning)
 - [Deutschsprachiger KI Blog](https://artemoppermann.com/de/blog/)
@@ -120,6 +132,15 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 - [StudioGAN: A Taxonomy and Benchmark of GANs for Image Synthesis](https://arxiv.org/abs/2206.09479?context=cs)
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805?hl=uk)
 - [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/10.1145/3442188.3445922)
+- [Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160)
+- [8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339)
+- [OptFormer: Towards Universal Hyperparameter Optimization with Transformers](https://ai.googleblog.com/2022/08/optformer-towards-universal.html?m=1)
+- [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/abs/2208.11970)
+
+## Articles
+
+- [Why have diffusion models displaced GANs so quickly?](https://threadreaderapp.com/thread/1560334207578161152.html)
+- [From motor control to embodied intelligence](https://www.deepmind.com/blog/from-motor-control-to-embodied-intelligence)
 
 ## Frameworks
 
