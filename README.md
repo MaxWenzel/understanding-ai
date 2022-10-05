@@ -53,6 +53,9 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 - [Machine Learning Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp)
 - [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course)
 - [How I would learn Machine Learning (if I could start over)](https://www.youtube.com/watch?v=wtolixa9XTg): Metacourse: which courses to choose
+- [Random Forrests](https://www.youtube.com/watch?v=kFwe2ZZU7yw): How to implement Random Forest from scratch with Python
+- [Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials)
+- [How diffusion models work: the math from scratch](https://theaisummer.com/diffusion-models/)
 
 ### Python
 
@@ -166,6 +169,7 @@ built on top of the Python programming language
 - [skorch](https://github.com/skorch-dev/skorch): a scikit-learn compatible neural network library that wraps PyTorch
 - [Chainer](https://chainer.org/): a powerful, flexible, and intuitive Framework for Neural Networks
 - [EvoTorch](https://evotorch.ai/): designed to accelerate research and applications of Evolutionary Algorithms, with dedicated support for NeuroEvolution.
+- [TensorStore](https://github.com/google/tensorstore): Library for reading and writing large multi-dimensional arrays.
 
 ### Helper
 
