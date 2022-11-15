@@ -184,7 +184,8 @@ built on top of the Python programming language
 - [spaCy](https://spacy.io/): a free open-source library for Natural Language Processing in Python. It features NER, POS tagging, dependency parsing, word vectors and more.
 - [Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/#): a Python library for pulling data out of HTML and XML files. It works with your favorite parser to provide idiomatic ways of navigating, searching, and modifying the parse tree. It commonly saves programmers hours or days of work.
 - [Selenium](https://selenium-python.readthedocs.io/): Selenium Python bindings provides a simple API to write functional/acceptance tests using Selenium WebDriver. Through Selenium Python API you can access all functionalities of Selenium WebDriver in an intuitive way.
-- []():
+- [Parsel](https://parsel.readthedocs.io/en/latest/): extract and remove data from HTML and XML using XPath and CSS selectors, optionally combined with regular expressions.
+- [Scrapy](https://scrapy.org/): an open source and collaborative framework for extracting the data you need from websites. In a fast, simple, yet extensible way.
 
 ### JavaScript
 
