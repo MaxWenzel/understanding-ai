@@ -110,6 +110,7 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 ## AI news
 
 - [AI Research Blog](https://research.aimultiple.com/)
+- [the-decoder](https://the-decoder.com/): AI news
 
 
 ## Blogs
