@@ -69,6 +69,7 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 ## Tutorials
 
 - [Jupyter Tutorial](https://jupyter-tutorial.readthedocs.io/en/latest/intro.html)
+- [ML Papers explained](https://github.com/dair-ai/ML-Papers-Explained)
 
 ## Books
 
