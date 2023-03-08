@@ -1,6 +1,11 @@
 # understanding-ai
 Collection of AI relevant stuff
 
+## Reinforcement Learning
+
+- [Stanford CS234: Reinforcement Learning in Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
+- [MIT 6.S091: Introduction to Deep Reinforcement Learning (Deep RL)](https://www.youtube.com/watch?v=zR11FLZ-O9M&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
+
 ## Tooling
 
 ## Languages
