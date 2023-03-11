@@ -130,8 +130,13 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 ## Online Training
 
 - [Google Colaboratory](https://colab.research.google.com/)
-- [RapidMiner](https://rapidminer.com/get-started/): provides a data science platform to help you drive real business impact.
 
+## Data Mining
+
+- [RapidMiner](https://rapidminer.com/): provides a data science platform to help you drive real business impact.
+- [Orange](https://orangedatamining.com/): Open source machine learning and data visualization. Build data analysis workflows visually, with a large, diverse toolbox.
+- [Knime](https://www.knime.com/knime-analytics-platform): Allowing anyone to build and upskill on data science
+- [SAS](https://www.sas.com/): SAS is the leading data mining tool for business analysis
 
 ## Archives
 
