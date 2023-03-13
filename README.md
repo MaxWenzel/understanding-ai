@@ -61,6 +61,7 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 - [Random Forrests](https://www.youtube.com/watch?v=kFwe2ZZU7yw): How to implement Random Forest from scratch with Python
 - [Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials)
 - [How diffusion models work: the math from scratch](https://theaisummer.com/diffusion-models/)
+- [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
 
 ### Interesting
 
@@ -104,7 +105,7 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/): free online book
 - [Dive into Deep Learning](https://d2l.ai/index.html): free online book
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
-
+- [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/index.html)
 
 ## Videos
 
@@ -249,6 +250,10 @@ built on top of the Python programming language
 - [Apache Ignite](https://github.com/apache/ignite): an in-memory database that includes a machine learning framework.
 
 
+## Cheat Sheets
+
+- [Standford Cheatsheets](https://stanford.edu/~shervine/teaching/)
+
 ## Misc
 
 - [Weka](https://www.cs.waikato.ac.nz/ml/weka/): workbench for machine learning
@@ -257,3 +262,8 @@ built on top of the Python programming language
 ## Interesting
 
 - Homomorphic encryption
+- [The State of Competitive Machine Learning](https://mlcontests.com/state-of-competitive-machine-learning-2022/)
+
+## Practice
+
+- [How to containerize Python applications with Docker](https://github.com/patrickloeber/python-docker-tutorial?ref=morioh.com&utm_source=morioh.com)
