@@ -62,6 +62,16 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 - [Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials)
 - [How diffusion models work: the math from scratch](https://theaisummer.com/diffusion-models/)
 
+### Interesting
+
+- [MOOC](https://www.mooc.org/): Massive Open Online Courses (MOOCs) are free online courses available for anyone to enroll.
+- [Stanford: Free Online Courses](https://online.stanford.edu/free-courses):
+- [Deeplearning.ai](https://www.deeplearning.ai/)
+- [Transformer Course](https://huggingface.co/course/chapter0/1): on HuggingFace
+- [Artificial Intelligence for Beginners - A Curriculum](https://microsoft.github.io/AI-For-Beginners/?id=artificial-intelligence-for-beginners-a-curriculum): Different approaches to Artificial Intelligence (presented by Microsoft)
+- [MIT Introduction to Deep Learning](http://introtodeeplearning.com/)
+
+
 ### Python
 
 - [Real Python](https://realpython.com/): Python Tutorials
@@ -70,6 +80,11 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 - [Python-Kurs](https://python-kurs.eu/): German Python tutorial
 - [Künstliche Intelligenz und Maschinelles Lernen in der Praxis](https://open.hpi.de/courses/kipraxis2021)
 - [Python for Data Science](https://www.edx.org/course/python-for-data-science-2)
+
+## SQL
+
+- [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY): YouTube Tutorial
+- [SQL Tutorial](https://mode.com/sql-tutorial/): Learn to answer questions with data using SQL. No coding experience necessary.
 
 ## Tutorials
 
@@ -88,6 +103,7 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 - AI-Superpowers, Kai-Fu Lee
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/): free online book
 - [Dive into Deep Learning](https://d2l.ai/index.html): free online book
+- [Mathematics for Machine Learning](https://mml-book.github.io/)
 
 
 ## Videos
