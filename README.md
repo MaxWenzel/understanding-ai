@@ -71,6 +71,7 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 - [Transformer Course](https://huggingface.co/course/chapter0/1): on HuggingFace
 - [Artificial Intelligence for Beginners - A Curriculum](https://microsoft.github.io/AI-For-Beginners/?id=artificial-intelligence-for-beginners-a-curriculum): Different approaches to Artificial Intelligence (presented by Microsoft)
 - [MIT Introduction to Deep Learning](http://introtodeeplearning.com/)
+- [Animated math](https://www.youtube.com/@3blue1brown/about)
 
 ### Summer School
 
