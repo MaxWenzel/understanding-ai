@@ -72,6 +72,7 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 - [Artificial Intelligence for Beginners - A Curriculum](https://microsoft.github.io/AI-For-Beginners/?id=artificial-intelligence-for-beginners-a-curriculum): Different approaches to Artificial Intelligence (presented by Microsoft)
 - [MIT Introduction to Deep Learning](http://introtodeeplearning.com/)
 - [Animated math](https://www.youtube.com/@3blue1brown/about)
+- [AI Robotics Seminar - University of Toronto](https://www.youtube.com/@AIRoboticsSeminar-UofT/featured)
 
 ### Summer School
 
