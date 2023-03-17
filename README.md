@@ -66,6 +66,8 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 ### Interesting
 
 - [How to get started](https://github.com/AssemblyAI-Examples/ML-Study-Guide)
+- [Practical Deep Learning](https://course.fast.ai/)
+- [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course?hl=en)
 - [MOOC](https://www.mooc.org/): Massive Open Online Courses (MOOCs) are free online courses available for anyone to enroll.
 - [Stanford: Free Online Courses](https://online.stanford.edu/free-courses):
 - [Deeplearning.ai](https://www.deeplearning.ai/)
