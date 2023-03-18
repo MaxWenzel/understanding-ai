@@ -66,6 +66,8 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 ### Current
 
 - [Stanford: Introduction to Deep Learning](http://introtodeeplearning.com/)
+- [Stanford Webinar - GPT-3 & Beyond](https://www.youtube.com/watch?v=-lnHHWRCDGk)
+- [Keith Galli: Python Libraries](https://www.youtube.com/@KeithGalli)
 
 ### Interesting
 
