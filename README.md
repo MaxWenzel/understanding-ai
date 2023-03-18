@@ -63,6 +63,10 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 - [How diffusion models work: the math from scratch](https://theaisummer.com/diffusion-models/)
 - [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
 
+### Current
+
+- [Stanford: Introduction to Deep Learning](http://introtodeeplearning.com/)
+
 ### Interesting
 
 - [How to get started](https://github.com/AssemblyAI-Examples/ML-Study-Guide)
