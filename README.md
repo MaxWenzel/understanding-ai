@@ -182,11 +182,13 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 - [8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339)
 - [OptFormer: Towards Universal Hyperparameter Optimization with Transformers](https://ai.googleblog.com/2022/08/optformer-towards-universal.html?m=1)
 - [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/abs/2208.11970)
+- [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 
 ## Articles
 
 - [Why have diffusion models displaced GANs so quickly?](https://threadreaderapp.com/thread/1560334207578161152.html)
 - [From motor control to embodied intelligence](https://www.deepmind.com/blog/from-motor-control-to-embodied-intelligence)
+- [We come to bury ChatGPT, not to praise it.](https://www.danmcquillan.org/chatgpt.html)
 
 ## Frameworks
 
