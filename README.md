@@ -215,6 +215,7 @@ built on top of the Python programming language
 - [Chainer](https://chainer.org/): a powerful, flexible, and intuitive Framework for Neural Networks
 - [EvoTorch](https://evotorch.ai/): designed to accelerate research and applications of Evolutionary Algorithms, with dedicated support for NeuroEvolution.
 - [TensorStore](https://github.com/google/tensorstore): Library for reading and writing large multi-dimensional arrays.
+- [LangChain](https://langchain.readthedocs.io/en/latest/index.html): Building applications with LLMs through composability
 
 ### Helper
 
@@ -269,6 +270,10 @@ built on top of the Python programming language
 ## Cheat Sheets
 
 - [Standford Cheatsheets](https://stanford.edu/~shervine/teaching/)
+- [SQL](https://learnsql.com/blog/ultimate-sql-cheat-sheet/All-sql-cheat-sheet-a4.pdf)
+- [Pandas](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+- []()
+- []()
 
 ## Misc
 
