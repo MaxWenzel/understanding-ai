@@ -288,3 +288,7 @@ built on top of the Python programming language
 ## Practice
 
 - [How to containerize Python applications with Docker](https://github.com/patrickloeber/python-docker-tutorial?ref=morioh.com&utm_source=morioh.com)
+
+## Github Projects
+
+- [GPT-4 & LangChain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain):GPT4 & LangChain Chatbot for large PDF docs
