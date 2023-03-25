@@ -272,7 +272,7 @@ built on top of the Python programming language
 - [Standford Cheatsheets](https://stanford.edu/~shervine/teaching/)
 - [SQL](https://learnsql.com/blog/ultimate-sql-cheat-sheet/All-sql-cheat-sheet-a4.pdf)
 - [Pandas](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
-- []()
+- [Pandas](https://res.cloudinary.com/dyd911kmh/image/upload/v1676302204/Marketing/Blog/Pandas_Cheat_Sheet.pdf)
 - []()
 
 ## Misc
