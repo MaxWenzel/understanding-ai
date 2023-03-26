@@ -301,3 +301,7 @@ built on top of the Python programming language
 ## Github Projects
 
 - [GPT-4 & LangChain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain):GPT4 & LangChain Chatbot for large PDF docs
+
+## Movies
+
+- [Do you trust this computer?](https://www.youtube.com/watch?v=aV_IZye14vs): 
