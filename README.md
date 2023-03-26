@@ -69,6 +69,15 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 - [Stanford Webinar - GPT-3 & Beyond](https://www.youtube.com/watch?v=-lnHHWRCDGk)
 - [Keith Galli: Python Libraries](https://www.youtube.com/@KeithGalli)
 
+### Next
+
+- [Andrej Karpathy](https://www.youtube.com/@AndrejKarpathy/playlists)
+- [Harvard: Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/)
+- [Cornell: Applied Machine Learning](https://cornelltech.github.io/cs5785-fall-2019/)
+- [Google Data Analytics Certificate](https://grow.google/intl/en_in/data-analytics-course/)
+- [Microsoft Certified: Azure Data Scientist Associate](https://learn.microsoft.com/en-us/certifications/azure-data-scientist/)
+- [Berkley: Full Stack Deep Learning](https://fullstackdeeplearning.com/)
+
 ### Interesting
 
 - [How to get started](https://github.com/AssemblyAI-Examples/ML-Study-Guide)
