@@ -304,4 +304,5 @@ built on top of the Python programming language
 
 ## Movies
 
-- [Do you trust this computer?](https://www.youtube.com/watch?v=aV_IZye14vs): 
+- [Do you trust this computer?](https://www.youtube.com/watch?v=aV_IZye14vs)
+- [Jensen Huang (Nvidia) and Ilya Sutskever (OpenAI) Today and Vision of future](https://www.youtube.com/watch?v=ZZ0atq2yYJw)
