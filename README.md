@@ -225,6 +225,7 @@ built on top of the Python programming language
 - [EvoTorch](https://evotorch.ai/): designed to accelerate research and applications of Evolutionary Algorithms, with dedicated support for NeuroEvolution.
 - [TensorStore](https://github.com/google/tensorstore): Library for reading and writing large multi-dimensional arrays.
 - [LangChain](https://langchain.readthedocs.io/en/latest/index.html): Building applications with LLMs through composability
+- [Modin](https://github.com/modin-project/modin): Scale your Pandas workflows by changing a single line of code
 
 ### Helper
 
@@ -301,6 +302,7 @@ built on top of the Python programming language
 ## Github Projects
 
 - [GPT-4 & LangChain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain):GPT4 & LangChain Chatbot for large PDF docs
+- [Lit-LLaMA ️](https://github.com/Lightning-AI/lit-llama): Independent implementation of LLaMA that is fully open source under the Apache 2.0 license.
 
 ## Movies
 
