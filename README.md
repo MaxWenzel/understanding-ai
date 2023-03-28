@@ -306,3 +306,4 @@ built on top of the Python programming language
 
 - [Do you trust this computer?](https://www.youtube.com/watch?v=aV_IZye14vs)
 - [Jensen Huang (Nvidia) and Ilya Sutskever (OpenAI) Today and Vision of future](https://www.youtube.com/watch?v=ZZ0atq2yYJw)
+- ["Godfather of artificial intelligence" talks impact and potential of AI](https://www.youtube.com/watch?v=qpoRO378qRY)
