@@ -194,6 +194,7 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 - [OptFormer: Towards Universal Hyperparameter Optimization with Transformers](https://ai.googleblog.com/2022/08/optformer-towards-universal.html?m=1)
 - [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/abs/2208.11970)
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
 
 ## Articles
 
