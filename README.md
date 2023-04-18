@@ -33,6 +33,7 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 
 ## Courses
 
+- [Collection: ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)
 - [DeepMind x UCL RL Lecture Series](https://www.youtube.com/watch?v=TCCjZe0y4Qc&list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm)
 - [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing): Coursera
 - [deeplearning.ai](https://www.deeplearning.ai/)
@@ -65,10 +66,21 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 
 ### Current
 
+- [Kaggle: Pandas-Course](https://www.kaggle.com/learn/pandas)
 - [Stanford: Introduction to Deep Learning](http://introtodeeplearning.com/)
 - [Stanford Webinar - GPT-3 & Beyond](https://www.youtube.com/watch?v=-lnHHWRCDGk)
 - [Keith Galli: Python Libraries](https://www.youtube.com/@KeithGalli)
 - [Sebastien Bubeck](https://www.youtube.com/@SebastienBubeck/featured)
+
+- [Stanford CS330: Deep Multi-Task and Meta Learning I Autumn 2022](https://www.youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI)
+- [FastAPI Course – Code APIs Quickly](https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/)
+- [UVA DEEP LEARNING II COURSE](https://uvadl2c.github.io/)
+- [Sergey Levine - Reinforcement Learning with Large Datasets: a Path to Resourceful Autonomous Agents](https://www.youtube.com/watch?v=wraCgn27kVA)
+- [Berkeley: Deep Learning: CS 182 Spring 2021](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
+- [Neuromatch Academy: Deep Learning](https://deeplearning.neuromatch.io/tutorials/intro.html)
+- [Applied Machine Learning (Cornell Tech CS 5787, Fall 2020)](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
+- []()
+- []()
 
 ### Next
 
@@ -81,6 +93,9 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 
 ### Interesting
 
+- [Python-based compiler achieves orders-of-magnitude speedups](https://news.mit.edu/2023/codon-python-based-compiler-achieve-orders-magnitude-speedups-0314)
+- [Is Elden Ring an existential risk to humanity?](http://togelius.blogspot.com/2023/04/is-elden-ring-existential-risk-to.html)
+- [Standford: 2023 AI Index Report]([https://hai.stanford.edu/news/2023-state-ai-14-charts](https://hai.stanford.edu/research/ai-index-2023))
 - [How to get started](https://github.com/AssemblyAI-Examples/ML-Study-Guide)
 - [Practical Deep Learning](https://course.fast.ai/)
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course?hl=en)
