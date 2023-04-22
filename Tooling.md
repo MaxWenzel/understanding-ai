@@ -18,6 +18,11 @@ ESC + b: create cell below
 CRTL + Enter: run cell
 Enter: enter edit mode
 
+```bash
+# line break
+<br>
+```
+
 ## Zoom
 
 Record Zoom session with QuickTime-Player and Blackhole-Plugin:
