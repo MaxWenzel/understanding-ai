@@ -67,7 +67,6 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 
 ### Current
 
-- [Kaggle: Pandas-Course](https://www.kaggle.com/learn/pandas)
 - [Stanford: Introduction to Deep Learning](http://introtodeeplearning.com/)
 - [Stanford Webinar - GPT-3 & Beyond](https://www.youtube.com/watch?v=-lnHHWRCDGk)
 - [Keith Galli: Python Libraries](https://www.youtube.com/@KeithGalli)
@@ -80,8 +79,10 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 - [Berkeley: Deep Learning: CS 182 Spring 2021](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
 - [Neuromatch Academy: Deep Learning](https://deeplearning.neuromatch.io/tutorials/intro.html)
 - [Applied Machine Learning (Cornell Tech CS 5787, Fall 2020)](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
-- []()
-- []()
+
+### Tutorials
+
+- [Kaggle: Pandas-Course](https://www.kaggle.com/learn/pandas)
 
 ### Next
 
