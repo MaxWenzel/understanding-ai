@@ -83,6 +83,7 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 ### Tutorials
 
 - [Kaggle: Pandas-Course](https://www.kaggle.com/learn/pandas)
+- [Kaggle Tutorials](https://www.kaggle.com/learn)
 
 ### Next
 
