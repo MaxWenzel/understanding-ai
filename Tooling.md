@@ -12,11 +12,11 @@ jupyter notebook
 
 ### Shortcuts
 
-ESC + m: Change to Markdown-Cell
-ESC + y: Change to Code-Cell
-ESC + b: create cell below
-CRTL + Enter: run cell
-Enter: enter edit mode
+* ESC + m: Change to Markdown-Cell
+* ESC + y: Change to Code-Cell
+* ESC + b: create cell below
+* CRTL + Enter: run cell
+* Enter: enter edit mode
 
 ```bash
 # line break
