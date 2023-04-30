@@ -67,6 +67,7 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 
 ### Current
 
+- [Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)](https://www.youtube.com/watch?v=r-uOLxNrNk8&t=1761s)
 - [Stanford: Introduction to Deep Learning](http://introtodeeplearning.com/)
 - [Stanford Webinar - GPT-3 & Beyond](https://www.youtube.com/watch?v=-lnHHWRCDGk)
 - [Keith Galli: Python Libraries](https://www.youtube.com/@KeithGalli)
@@ -303,7 +304,7 @@ built on top of the Python programming language
 - [SQL](https://learnsql.com/blog/ultimate-sql-cheat-sheet/All-sql-cheat-sheet-a4.pdf)
 - [Pandas](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 - [Pandas](https://res.cloudinary.com/dyd911kmh/image/upload/v1676302204/Marketing/Blog/Pandas_Cheat_Sheet.pdf)
-- []()
+- [Collection](https://github.com/goodjob0823/Data-Science-Cheat-Sheets)
 
 ## Misc
 
