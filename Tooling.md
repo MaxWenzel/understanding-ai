@@ -6,6 +6,13 @@
 jupyter lab
 ```
 
+### Edit Document title
+
+From Jupyter notebook: Edit -> Edit Notebook Metadata then add a new field like:
+
+```bash
+"title":"This is the new title",
+```
 
 ## Jupyter
 
