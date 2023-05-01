@@ -1,5 +1,12 @@
 # Tools
 
+## Jupyter Lab
+
+```bash
+jupyter lab
+```
+
+
 ## Jupyter
 
 ### Start
