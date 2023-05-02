@@ -221,6 +221,9 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 - [Why have diffusion models displaced GANs so quickly?](https://threadreaderapp.com/thread/1560334207578161152.html)
 - [From motor control to embodied intelligence](https://www.deepmind.com/blog/from-motor-control-to-embodied-intelligence)
 - [We come to bury ChatGPT, not to praise it.](https://www.danmcquillan.org/chatgpt.html)
+- [Ten Things About AI](https://redmonk.com/sogrady/2023/04/27/ai-questions/)
+- ["The Godfather of A.I." Leaves Google and Warns of Danger Ahead](https://www.nytimes.com/2023/05/01/technology/ai-google-chatbot-engineer-quits-hinton.html)
+- [Is Elden Ring an existential risk to humanity?](http://togelius.blogspot.com/2023/04/is-elden-ring-existential-risk-to.html)
 
 ## Frameworks
 
