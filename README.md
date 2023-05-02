@@ -64,6 +64,7 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 - [Transformers-Tutorials](https://github.com/NielsRogge/Transformers-Tutorials)
 - [How diffusion models work: the math from scratch](https://theaisummer.com/diffusion-models/)
 - [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
+- [Harvard University's CS50 (beginner computer science course)](https://www.freecodecamp.org/news/harvard-cs50/)
 
 ### Current
 
@@ -111,6 +112,7 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 - [MIT Introduction to Deep Learning](http://introtodeeplearning.com/)
 - [Animated math](https://www.youtube.com/@3blue1brown/about)
 - [AI Robotics Seminar - University of Toronto](https://www.youtube.com/@AIRoboticsSeminar-UofT/featured)
+- [Yann LeCun and Andrew Ng: Why the 6-month AI Pause is a Bad Idea](https://www.youtube.com/watch?v=BY9KV8uCtj4)
 
 ### Summer School
 
@@ -215,6 +217,7 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 - [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/abs/2208.11970)
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 - [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
+- [ML Papers Explained](https://github.com/dair-ai/ML-Papers-Explained)
 
 ## Articles
 
@@ -224,6 +227,8 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 - [Ten Things About AI](https://redmonk.com/sogrady/2023/04/27/ai-questions/)
 - ["The Godfather of A.I." Leaves Google and Warns of Danger Ahead](https://www.nytimes.com/2023/05/01/technology/ai-google-chatbot-engineer-quits-hinton.html)
 - [Is Elden Ring an existential risk to humanity?](http://togelius.blogspot.com/2023/04/is-elden-ring-existential-risk-to.html)
+- [Geoffrey Hinton tells us why he’s now scared of the tech he helped build](https://www.technologyreview.com/2023/05/02/1072528/geoffrey-hinton-google-why-scared-ai/)
+- [Why’s it so hard to teach robots to talk?](https://blog.3ds.com/brands/netvibes/why-is-it-so-hard-to-teach-robots-to-talk/?utm_campaign=202302_glo_corp_MobileWorldCongress_en_OPCO020_labl&utm_medium=paidsocial&utm_source=twitter&utm_content=sc_lg&utm_term=ai)
 
 ## Frameworks
 
