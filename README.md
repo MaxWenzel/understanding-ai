@@ -231,6 +231,7 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 - [Why’s it so hard to teach robots to talk?](https://blog.3ds.com/brands/netvibes/why-is-it-so-hard-to-teach-robots-to-talk/?utm_campaign=202302_glo_corp_MobileWorldCongress_en_OPCO020_labl&utm_medium=paidsocial&utm_source=twitter&utm_content=sc_lg&utm_term=ai)
 - [The Vietnam of Computer Science](https://web.archive.org/web/20220402094418/http://blogs.tedneward.com/post/the-vietnam-of-computer-science/)
 - [Object-Relational Mapping is the Vietnam of Computer Science](https://blog.codinghorror.com/object-relational-mapping-is-the-vietnam-of-computer-science/)
+- [The State of Competitive Machine Learning](https://mlcontests.com/state-of-competitive-machine-learning-2022/#winning-toolkit)
 
 ## Frameworks
 
