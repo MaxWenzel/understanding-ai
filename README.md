@@ -233,6 +233,7 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 - [Object-Relational Mapping is the Vietnam of Computer Science](https://blog.codinghorror.com/object-relational-mapping-is-the-vietnam-of-computer-science/)
 - [The State of Competitive Machine Learning](https://mlcontests.com/state-of-competitive-machine-learning-2022/#winning-toolkit)
 - [AI And The Limits Of Language](https://www.noemamag.com/ai-and-the-limits-of-language/)
+- [Simple way to Deploy ML Models as Flask APIs on Amazon ECS](https://towardsdatascience.com/simple-way-to-deploy-ml-models-as-flask-apis-on-amazon-ecs-7be11f9dc4d9)
 
 ## Frameworks
 
