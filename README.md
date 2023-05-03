@@ -100,6 +100,8 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 
 ### Interesting
 
+- [MIT CSAIL](https://www.youtube.com/@MITCSAIL)
+- [Eye on AI](https://www.youtube.com/@eyeonai3425)
 - [Python-based compiler achieves orders-of-magnitude speedups](https://news.mit.edu/2023/codon-python-based-compiler-achieve-orders-magnitude-speedups-0314)
 - [Is Elden Ring an existential risk to humanity?](http://togelius.blogspot.com/2023/04/is-elden-ring-existential-risk-to.html)
 - [Standford: 2023 AI Index Report]([https://hai.stanford.edu/news/2023-state-ai-14-charts](https://hai.stanford.edu/research/ai-index-2023))
