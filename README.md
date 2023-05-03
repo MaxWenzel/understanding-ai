@@ -12,6 +12,8 @@ Collection of AI relevant stuff
 
 - [Python](https://www.python.org/)
 - [Julia](https://julialang.org/)
+- [Mojo](https://www.modular.com/mojo)
+- [R](https://www.r-project.org/about.html)
 
 ### Notebooks
 
