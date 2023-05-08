@@ -211,6 +211,8 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 
 ## Papers
 
+- [Learning representations by back-propagating errors](https://www.nature.com/articles/323533a0)
+- [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
 - [On the Principles of Parsimony and Self-Consistency for the Emergence of Intelligence](https://arxiv.org/abs/2207.04630)
 - [StudioGAN: A Taxonomy and Benchmark of GANs for Image Synthesis](https://arxiv.org/abs/2206.09479?context=cs)
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805?hl=uk)
@@ -238,6 +240,8 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 - [The State of Competitive Machine Learning](https://mlcontests.com/state-of-competitive-machine-learning-2022/#winning-toolkit)
 - [AI And The Limits Of Language](https://www.noemamag.com/ai-and-the-limits-of-language/)
 - [Simple way to Deploy ML Models as Flask APIs on Amazon ECS](https://towardsdatascience.com/simple-way-to-deploy-ml-models-as-flask-apis-on-amazon-ecs-7be11f9dc4d9)
+- [Google "We Have No Moat, And Neither Does OpenAI"](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither)
+- [Vorschlag für ein Gesetz über Künstliche Intelligenz](https://eur-lex.europa.eu/resource.html?uri=cellar:e0649735-a372-11eb-9585-01aa75ed71a1.0019.02/DOC_1&format=PDF)
 
 ## Frameworks
 
