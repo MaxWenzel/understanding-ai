@@ -15,6 +15,11 @@ Collection of AI relevant stuff
 - [Mojo](https://www.modular.com/mojo)
 - [R](https://www.r-project.org/about.html)
 
+## Guides and Principles
+
+- [Google AI principles](https://ai.google/principles/)
+- [Google: General recommended practices for AI](https://ai.google/responsibilities/responsible-ai-practices/)
+
 ### Notebooks
 
 - [Apache Zeppelin](https://zeppelin.apache.org/): Web-based notebook that enables data-driven,
