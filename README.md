@@ -22,6 +22,7 @@ Collection of AI relevant stuff
 
 ### Notebooks
 
+- [nbdev](https://nbdev.fast.ai/)
 - [Apache Zeppelin](https://zeppelin.apache.org/): Web-based notebook that enables data-driven,
 interactive data analytics and collaborative documents with SQL, Scala, Python, R and more.
 - [Jupyter](https://jupyter.org/): JupyterLab is the latest web-based interactive development environment for notebooks, code, and data. Its flexible interface allows users to configure and arrange workflows in data science, scientific computing, computational journalism, and machine learning. A modular design invites extensions to expand and enrich functionality.
