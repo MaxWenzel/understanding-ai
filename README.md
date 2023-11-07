@@ -254,6 +254,11 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 
 ## Frameworks
 
+### GUIs
+
+- [Gradio](https://www.gradio.app/):an open-source Python library that is used to build machine learning and data science demos and web applications.
+- [Streamlit](https://streamlit.io/): turn data scripts into shareable web apps
+
 ### Python (and other)
 
 - [NVIDIA NeMo](https://github.com/NVIDIA/NeMo): a toolkit for creating Conversational AI applications.
