@@ -5,6 +5,12 @@ Collection of AI relevant stuff
 
 - [Stanford CS234: Reinforcement Learning in Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
 - [MIT 6.S091: Introduction to Deep Reinforcement Learning (Deep RL)](https://www.youtube.com/watch?v=zR11FLZ-O9M&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
+- [Hugging Face: Deep Reinforcement Learning Course](https://huggingface.co/learn/deep-rl-course/unit0/introduction)
+- [RL Course by David Silver - Lecture 1: Introduction to Reinforcement Learning](https://www.youtube.com/watch?v=2pWv7GOvuf0)
+
+## Transformers
+
+- [2023 1.3 Transformers](https://www.youtube.com/watch?v=IvWHJvasGb0)
 
 ## Tooling
 
