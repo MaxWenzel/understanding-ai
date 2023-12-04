@@ -288,6 +288,14 @@ built on top of the Python programming language
 - [TensorStore](https://github.com/google/tensorstore): Library for reading and writing large multi-dimensional arrays.
 - [LangChain](https://langchain.readthedocs.io/en/latest/index.html): Building applications with LLMs through composability
 - [Modin](https://github.com/modin-project/modin): Scale your Pandas workflows by changing a single line of code
+- [Gensim](https://radimrehurek.com/gensim/): Topic Modelling for Humans
+- [SentenceTransformers](https://www.sbert.net/): a Python framework for state-of-the-art sentence, text and image embeddings.
+- [fastText](https://fasttext.cc/docs/en/faqs.html):  a library for text classification and representation. It transforms text into continuous vectors that can later be used on any language related task. 
+
+#### Performance
+
+- [fastprogress](https://github.com/fastai/fastprogress): a simple and flexible progress bar for Jupyter Notebook and console
+- [tqdm](https://github.com/tqdm/tqdm): a fast, Extensible Progress Bar for Python and CLI
 
 ### Helper
 
