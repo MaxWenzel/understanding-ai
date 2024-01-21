@@ -226,6 +226,7 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 
 ## Papers
 
+- [Improving language understanding with unsupervised learning](https://openai.com/research/language-unsupervised)
 - [Foundations of Vector Retrieval](https://arxiv.org/abs/2401.09350)
 - [Learning representations by back-propagating errors](https://www.nature.com/articles/323533a0)
 - [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
