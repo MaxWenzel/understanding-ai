@@ -226,6 +226,7 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 
 ## Papers
 
+- [Foundations of Vector Retrieval](https://arxiv.org/abs/2401.09350)
 - [Learning representations by back-propagating errors](https://www.nature.com/articles/323533a0)
 - [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
 - [On the Principles of Parsimony and Self-Consistency for the Emergence of Intelligence](https://arxiv.org/abs/2207.04630)
