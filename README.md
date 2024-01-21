@@ -226,6 +226,10 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 
 ## Papers
 
+- [DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter](https://arxiv.org/abs/1910.01108)
+- [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692)
+- [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683)
+- [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237)
 - [Improving language understanding with unsupervised learning](https://openai.com/research/language-unsupervised)
 - [Foundations of Vector Retrieval](https://arxiv.org/abs/2401.09350)
 - [Learning representations by back-propagating errors](https://www.nature.com/articles/323533a0)
