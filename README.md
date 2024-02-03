@@ -27,8 +27,11 @@ Collection of AI relevant stuff
 - [Google: General recommended practices for AI](https://ai.google/responsibilities/responsible-ai-practices/)
 - [Internationale Leitprinzipien des Hiroshima-Prozesses für fortgeschrittene KI-Systeme](https://digital-strategy.ec.europa.eu/de/library/hiroshima-process-international-guiding-principles-advanced-ai-system#:~:text=Die%20Internationalen%20Leitprinzipien%20f%C3%BCr%20Organisationen,einschlie%C3%9Flich%20der%20fortschrittlichsten%20Grundlagenmodelle%20und)
 - [OECD AI Principles](https://oecd.ai/en/ai-principles)
-- Bletchley Park
-- Asilomar Principles
+- [The Bletchley Declaration by Countries](https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023)
+- [Asilomar AI Principles](https://futureoflife.org/open-letter/ai-principles/)
+- [Microsoft AI principles](https://www.microsoft.com/en-us/ai/principles-and-approach)
+- [Statement on AI Risk](https://www.safe.ai/statement-on-ai-risk)
+- [EU AI Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A52021PC0206)
 
 ### Notebooks
 
