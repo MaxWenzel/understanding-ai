@@ -25,6 +25,10 @@ Collection of AI relevant stuff
 
 - [Google AI principles](https://ai.google/principles/)
 - [Google: General recommended practices for AI](https://ai.google/responsibilities/responsible-ai-practices/)
+- [Internationale Leitprinzipien des Hiroshima-Prozesses für fortgeschrittene KI-Systeme](https://digital-strategy.ec.europa.eu/de/library/hiroshima-process-international-guiding-principles-advanced-ai-system#:~:text=Die%20Internationalen%20Leitprinzipien%20f%C3%BCr%20Organisationen,einschlie%C3%9Flich%20der%20fortschrittlichsten%20Grundlagenmodelle%20und)
+- [OECD AI Principles](https://oecd.ai/en/ai-principles)
+- Bletchley Park
+- Asilomar Principles
 
 ### Notebooks
 
