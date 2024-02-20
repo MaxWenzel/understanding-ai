@@ -89,6 +89,14 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 - [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
 - [Harvard University's CS50 (beginner computer science course)](https://www.freecodecamp.org/news/harvard-cs50/)
 
+### Collections
+
+- [ML YouTube Courses](https://github.com/dair-ai/ML-YouTube-Courses)
+- []()
+- []()
+- []()
+- []()
+
 ### Current
 
 - [Stanford XCS224U: Natural Language Understanding - Spring 2023](https://www.youtube.com/playlist?list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp)
@@ -97,7 +105,6 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 - [Stanford Webinar - GPT-3 & Beyond](https://www.youtube.com/watch?v=-lnHHWRCDGk)
 - [Keith Galli: Python Libraries](https://www.youtube.com/@KeithGalli)
 - [Sebastien Bubeck](https://www.youtube.com/@SebastienBubeck/featured)
-
 - [Stanford CS330: Deep Multi-Task and Meta Learning I Autumn 2022](https://www.youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI)
 - [FastAPI Course – Code APIs Quickly](https://www.freecodecamp.org/news/fastapi-helps-you-develop-apis-quickly/)
 - [UVA DEEP LEARNING II COURSE](https://uvadl2c.github.io/)
