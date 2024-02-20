@@ -99,6 +99,7 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 
 ### Current
 
+- [Berkeley: Deep Learning: CS 182 Spring 2021](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
 - [Stanford XCS224U: Natural Language Understanding - Spring 2023](https://www.youtube.com/playlist?list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp)
 - [Data Analysis with Python - Full Course for Beginners (Numpy, Pandas, Matplotlib, Seaborn)](https://www.youtube.com/watch?v=r-uOLxNrNk8&t=1761s)
 - [Stanford: Introduction to Deep Learning](http://introtodeeplearning.com/)
