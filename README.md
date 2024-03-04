@@ -21,6 +21,12 @@ Collection of AI relevant stuff
 - [Mojo](https://www.modular.com/mojo)
 - [R](https://www.r-project.org/about.html)
 
+## Open Letters
+
+- [Build AI for a Better Future](https://openletter.svangel.com/)
+- [Statement on AI Risk](https://www.safe.ai/statement-on-ai-risk)
+- [Future of Life](https://futureoflife.org/fli-open-letters/)
+
 ## Guides and Principles
 
 - [Google AI principles](https://ai.google/principles/)
