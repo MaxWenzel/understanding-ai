@@ -60,6 +60,7 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 
 ## Courses
 
+- [Machine Learning](https://www.youtube.com/playlist?list=PLG19vXLQHvSC2ZKFIkgVpI9fCjkN38kwf)
 - [Deep Learning Fundamentals](https://lightning.ai/pages/courses/deep-learning-fundamentals/)
 - [Cohere](https://docs.cohere.com/docs/llmu)
 - [MIT: Linear ALgebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
