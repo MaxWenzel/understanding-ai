@@ -250,6 +250,7 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 
 - [Computing machinery and intelligence](https://academic.oup.com/mind/article/LIX/236/433/986238#164226651)
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712)
 - [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? 🦜](https://dl.acm.org/doi/10.1145/3442188.3445922)
 - [Design2Code: How Far Are We From Automating Front-End Engineering?](https://arxiv.org/abs/2403.03163)
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805?hl=uk)
@@ -264,12 +265,10 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 - [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685)
 - [On the Principles of Parsimony and Self-Consistency for the Emergence of Intelligence](https://arxiv.org/abs/2207.04630)
 - [StudioGAN: A Taxonomy and Benchmark of GANs for Image Synthesis](https://arxiv.org/abs/2206.09479?context=cs)
-- [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big?](https://dl.acm.org/doi/10.1145/3442188.3445922)
 - [Tutorial: Generative Adversarial Networks](https://arxiv.org/abs/1701.00160)
 - [8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339)
 - [OptFormer: Towards Universal Hyperparameter Optimization with Transformers](https://ai.googleblog.com/2022/08/optformer-towards-universal.html?m=1)
 - [Understanding Diffusion Models: A Unified Perspective](https://arxiv.org/abs/2208.11970)
-
 - [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165)
 - [ML Papers Explained](https://github.com/dair-ai/ML-Papers-Explained)
 
