@@ -409,6 +409,9 @@ built on top of the Python programming language
 
 ## Movies
 
+- [Slaughterbots](https://www.youtube.com/watch?v=O-2tpwW0kmU)
+- [Slaughterbots II](https://www.youtube.com/watch?v=9rDo1QxI260)
+- [AlphaGo - The Movie](https://www.youtube.com/watch?v=WXuK6gekU1Y)
 - [Do you trust this computer?](https://www.youtube.com/watch?v=aV_IZye14vs)
 - [Jensen Huang (Nvidia) and Ilya Sutskever (OpenAI) Today and Vision of future](https://www.youtube.com/watch?v=ZZ0atq2yYJw)
 - ["Godfather of artificial intelligence" talks impact and potential of AI](https://www.youtube.com/watch?v=qpoRO378qRY)
