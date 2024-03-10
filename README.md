@@ -60,6 +60,7 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 
 ## Courses
 
+- [NLP (Stanford)](https://www.youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4)
 - [Machine Learning](https://www.youtube.com/playlist?list=PLG19vXLQHvSC2ZKFIkgVpI9fCjkN38kwf)
 - [Deep Learning Fundamentals](https://lightning.ai/pages/courses/deep-learning-fundamentals/)
 - [Cohere](https://docs.cohere.com/docs/llmu)
