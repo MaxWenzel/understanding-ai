@@ -38,6 +38,8 @@ Collection of AI relevant stuff
 - [Microsoft AI principles](https://www.microsoft.com/en-us/ai/principles-and-approach)
 - [Statement on AI Risk](https://www.safe.ai/statement-on-ai-risk)
 - [EU AI Act](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A52021PC0206)
+- [Markkula Center for Applied Ethics](https://www.scu.edu/ethics/)
+- [Turning AI into concrete value](https://www.capgemini.com/wp-content/uploads/2017/09/dti-ai-report_final-1.pdf): Capgemini Study
 
 ### Notebooks
 
