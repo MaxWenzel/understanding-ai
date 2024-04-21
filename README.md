@@ -249,8 +249,10 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 - [Papers with Code](https://paperswithcode.com/): The latest in machine learning
 - [arXiv](https://arxiv.org/): a free distribution service and an open-access archive
 
+
 ## Important Papers
 
+- [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)
 - [Computing machinery and intelligence](https://academic.oup.com/mind/article/LIX/236/433/986238#164226651)
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
 - [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712)
