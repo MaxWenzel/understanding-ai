@@ -413,6 +413,7 @@ built on top of the Python programming language
 
 ## Movies
 
+- [OpenAI iHUMAN](https://www.youtube.com/watch?v=jW9XOYycFz0)
 - [Der neue Gott - Wie künstliche Intelligenz die Welt verändert ](https://www.youtube.com/watch?v=QXciaywtKYg)
 - [Künstliche Intelligenz. Zukunft oder Bedrohung? | Doku [HD]](https://www.youtube.com/watch?v=nFnojsGDG0U)
 - [Flash Wars | Doku HD | ARTE](https://www.youtube.com/watch?v=ZD8P-OGLELI)
@@ -426,3 +427,14 @@ built on top of the Python programming language
 - ["Godfather of artificial intelligence" talks impact and potential of AI](https://www.youtube.com/watch?v=qpoRO378qRY)
 - ["Godfather of AI" Geoffrey Hinton: The 60 Minutes Interview](https://www.youtube.com/watch?v=qrvK_KuIeJk)
 - [DeepMind: The Quest to Develop Artificial General Intelligence](https://www.youtube.com/watch?v=kFlLzFuslfQ)
+
+### Hollywood
+
+- Eagle Eyes
+- iRobot
+- Her
+- Blade Runner
+- Blade Runner 2049
+- A.I.
+- Ex Machina
+- 2001: a Space Odyssey 
