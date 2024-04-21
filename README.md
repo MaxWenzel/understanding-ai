@@ -413,6 +413,8 @@ built on top of the Python programming language
 
 ## Movies
 
+- [Der neue Gott - Wie künstliche Intelligenz die Welt verändert ](https://www.youtube.com/watch?v=QXciaywtKYg)
+- [Künstliche Intelligenz. Zukunft oder Bedrohung? | Doku [HD]](https://www.youtube.com/watch?v=nFnojsGDG0U)
 - [Flash Wars | Doku HD | ARTE](https://www.youtube.com/watch?v=ZD8P-OGLELI)
 - [Schlaue neue Welt - Das KI-Wettrennen](https://www.youtube.com/watch?v=EJsa6wZ6ovY)
 - [Artificial Intelligence | 60 Minutes Full Episodes](https://www.youtube.com/watch?v=aZ5EsdnpLMI)
