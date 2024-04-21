@@ -413,6 +413,8 @@ built on top of the Python programming language
 
 ## Movies
 
+- [Schlaue neue Welt - Das KI-Wettrennen](https://www.youtube.com/watch?v=EJsa6wZ6ovY)
+- [Artificial Intelligence | 60 Minutes Full Episodes](https://www.youtube.com/watch?v=aZ5EsdnpLMI)
 - [Slaughterbots](https://www.youtube.com/watch?v=O-2tpwW0kmU)
 - [Slaughterbots II](https://www.youtube.com/watch?v=9rDo1QxI260)
 - [AlphaGo - The Movie](https://www.youtube.com/watch?v=WXuK6gekU1Y)
