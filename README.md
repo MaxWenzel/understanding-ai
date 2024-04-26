@@ -427,6 +427,7 @@ built on top of the Python programming language
 - ["Godfather of artificial intelligence" talks impact and potential of AI](https://www.youtube.com/watch?v=qpoRO378qRY)
 - ["Godfather of AI" Geoffrey Hinton: The 60 Minutes Interview](https://www.youtube.com/watch?v=qrvK_KuIeJk)
 - [DeepMind: The Quest to Develop Artificial General Intelligence](https://www.youtube.com/watch?v=kFlLzFuslfQ)
+- [Transcendent Man by Ray Kurzweil](https://www.youtube.com/watch?v=rlUNSyTuauM)
 
 ### Hollywood
 
@@ -437,4 +438,6 @@ built on top of the Python programming language
 - Blade Runner 2049
 - A.I.
 - Ex Machina
-- 2001: a Space Odyssey 
+- 2001: a Space Odyssey
+- War Games
+- 23
