@@ -413,6 +413,7 @@ built on top of the Python programming language
 
 ## Movies
 
+- [Künstliche Unsterblichkeit (2021) Der KI-Dokumentarfilm](https://www.youtube.com/watch?v=P7vkaR6gdMI)
 - [OpenAI iHUMAN](https://www.youtube.com/watch?v=jW9XOYycFz0)
 - [Der neue Gott - Wie künstliche Intelligenz die Welt verändert ](https://www.youtube.com/watch?v=QXciaywtKYg)
 - [Künstliche Intelligenz. Zukunft oder Bedrohung? | Doku [HD]](https://www.youtube.com/watch?v=nFnojsGDG0U)
@@ -428,6 +429,10 @@ built on top of the Python programming language
 - ["Godfather of AI" Geoffrey Hinton: The 60 Minutes Interview](https://www.youtube.com/watch?v=qrvK_KuIeJk)
 - [DeepMind: The Quest to Develop Artificial General Intelligence](https://www.youtube.com/watch?v=kFlLzFuslfQ)
 - [Transcendent Man by Ray Kurzweil](https://www.youtube.com/watch?v=rlUNSyTuauM)
+- [Von Chatbots bis zu Waffensystemen - Fluch und Segen der Künstlichen Intelligenz](https://www.youtube.com/watch?v=oNk6ESLpxKI&t=17s)
+- [Die Megamacht der Mikrochips | Doku HD Reupload | ARTE](https://www.youtube.com/watch?v=D5mFvj6lQA0)
+- [Revolution Of Artificial Intelligence](https://www.youtube.com/watch?v=MXkoN4rql3g)
+- [Der unsichtbare Krieg | Doku HD | ARTE](https://www.youtube.com/watch?v=caSHlWJ38HE)
 
 ### Hollywood
 
