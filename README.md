@@ -413,6 +413,15 @@ built on top of the Python programming language
 
 ## Movies
 
+- [Lo and Behold, Reveries of the Connected World](https://www.youtube.com/watch?v=SQDMokwTRnU)
+- [The Rise of AI](https://www.youtube.com/watch?v=Dk7h22mRYHQ)
+- [Machine Learning: Living in the Age of A](https://www.youtube.com/watch?v=ZJixNvx9BAc)
+- [How Far is Too Far? | The Age of A.I.](https://www.youtube.com/watch?v=UwsrzCVZAb8&list=PLjq6DwYksrzz_fsWIpPcf6V7p2RNAneKc)
+- [The Social Dilemma](https://www.youtube.com/watch?v=yGi2YKZZNFg)
+- [Artificial Gamer](https://www.youtube.com/watch?v=AZQeaUyNVsw)
+- [TechnoCalyps Part I TransHuman](https://www.youtube.com/watch?v=7MXQSbjBL7Q)
+- [Technocalyps II, Preparing for the Singularity](https://www.youtube.com/watch?v=6hcjT1U-p2E)
+- [TechnoCalyps Part III The Digital Messiah](https://www.youtube.com/watch?v=EvWuF_KXuDk)
 - [Künstliche Unsterblichkeit (2021) Der KI-Dokumentarfilm](https://www.youtube.com/watch?v=P7vkaR6gdMI)
 - [OpenAI iHUMAN](https://www.youtube.com/watch?v=jW9XOYycFz0)
 - [Der neue Gott - Wie künstliche Intelligenz die Welt verändert ](https://www.youtube.com/watch?v=QXciaywtKYg)
@@ -433,6 +442,11 @@ built on top of the Python programming language
 - [Die Megamacht der Mikrochips | Doku HD Reupload | ARTE](https://www.youtube.com/watch?v=D5mFvj6lQA0)
 - [Revolution Of Artificial Intelligence](https://www.youtube.com/watch?v=MXkoN4rql3g)
 - [Der unsichtbare Krieg | Doku HD | ARTE](https://www.youtube.com/watch?v=caSHlWJ38HE)
+
+## Further
+
+- Hi, A.I
+- [Movies - Overview](https://www.factualamerica.com/blog/lists/best-documentaries-about-ai)
 
 ### Hollywood
 
