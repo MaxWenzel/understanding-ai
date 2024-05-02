@@ -411,6 +411,10 @@ built on top of the Python programming language
 - [GPT-4 & LangChain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain):GPT4 & LangChain Chatbot for large PDF docs
 - [Lit-LLaMA ️](https://github.com/Lightning-AI/lit-llama): Independent implementation of LLaMA that is fully open source under the Apache 2.0 license.
 
+## Podcasts
+
+- [What, if anything, do AIs understand? with ChatGPT Co-Founder Ilya Sutskever](https://www.youtube.com/watch?v=NLjS1UOr8Nc)
+
 ## Movies
 
 - [Lo and Behold, Reveries of the Connected World](https://www.youtube.com/watch?v=SQDMokwTRnU)
@@ -442,6 +446,7 @@ built on top of the Python programming language
 - [Die Megamacht der Mikrochips | Doku HD Reupload | ARTE](https://www.youtube.com/watch?v=D5mFvj6lQA0)
 - [Revolution Of Artificial Intelligence](https://www.youtube.com/watch?v=MXkoN4rql3g)
 - [Der unsichtbare Krieg | Doku HD | ARTE](https://www.youtube.com/watch?v=caSHlWJ38HE)
+- [Pegasus - Der Feind liest mit ](https://www.youtube.com/watch?v=WXxbAc2L1V8)
 
 ## Further
 
