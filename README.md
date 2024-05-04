@@ -14,6 +14,11 @@ Collection of AI relevant stuff
 
 ## Tooling
 
+## AI Coder
+
+- [Devin](https://devinai.ai/)
+- [Devika](https://github.com/stitionai/devika)
+
 ## Languages
 
 - [Python](https://www.python.org/)
