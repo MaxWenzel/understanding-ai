@@ -422,6 +422,9 @@ built on top of the Python programming language
 
 ## Movies
 
+- [Künstliche Intelligenz - Haben Maschinen Gefühle?](https://www.youtube.com/watch?v=BJYX-9zhbdE)
+- [Die neue industrielle Revolution](https://www.youtube.com/watch?v=Hf6pIL0HU4s)
+- [Cyberwelt - Die Zukunft ist jetzt ](https://www.youtube.com/watch?v=FZWBTVQKdcU)
 - [Lo and Behold, Reveries of the Connected World](https://www.youtube.com/watch?v=SQDMokwTRnU)
 - [The Rise of AI](https://www.youtube.com/watch?v=Dk7h22mRYHQ)
 - [Machine Learning: Living in the Age of A](https://www.youtube.com/watch?v=ZJixNvx9BAc)
