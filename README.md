@@ -458,6 +458,7 @@ built on top of the Python programming language
 
 ## Further
 
+- Arte: Killerroboter - KI im Krieg
 - Hi, A.I
 - [Movies - Overview](https://www.factualamerica.com/blog/lists/best-documentaries-about-ai)
 
