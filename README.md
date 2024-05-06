@@ -236,7 +236,7 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 - [DeepNett-Blog](http://www.deepnetts.com/blog/)
 - [IBM Blog: Machine Learning](https://www.ibm.com/cloud/learn/machine-learning)
 - [Deutschsprachiger KI Blog](https://artemoppermann.com/de/blog/)
-
+- [Statistics](https://rinterested.github.io/statistics/index.html)
 
 ## Online Training
 
