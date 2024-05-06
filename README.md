@@ -354,6 +354,7 @@ built on top of the Python programming language
 - [Selenium](https://selenium-python.readthedocs.io/): Selenium Python bindings provides a simple API to write functional/acceptance tests using Selenium WebDriver. Through Selenium Python API you can access all functionalities of Selenium WebDriver in an intuitive way.
 - [Parsel](https://parsel.readthedocs.io/en/latest/): extract and remove data from HTML and XML using XPath and CSS selectors, optionally combined with regular expressions.
 - [Scrapy](https://scrapy.org/): an open source and collaborative framework for extracting the data you need from websites. In a fast, simple, yet extensible way.
+- [Confusion Matrix in Python](https://github.com/wcipriano/pretty-print-confusion-matrix)
 
 ### JavaScript
 
