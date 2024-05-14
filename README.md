@@ -423,9 +423,7 @@ built on top of the Python programming language
 
 ## Movies
 
-- [Künstliche Intelligenz - Haben Maschinen Gefühle?](https://www.youtube.com/watch?v=BJYX-9zhbdE)
-- [Die neue industrielle Revolution](https://www.youtube.com/watch?v=Hf6pIL0HU4s)
-- [Cyberwelt - Die Zukunft ist jetzt ](https://www.youtube.com/watch?v=FZWBTVQKdcU)
+
 - [Lo and Behold, Reveries of the Connected World](https://www.youtube.com/watch?v=SQDMokwTRnU)
 - [The Rise of AI](https://www.youtube.com/watch?v=Dk7h22mRYHQ)
 - [Machine Learning: Living in the Age of A](https://www.youtube.com/watch?v=ZJixNvx9BAc)
@@ -435,12 +433,7 @@ built on top of the Python programming language
 - [TechnoCalyps Part I TransHuman](https://www.youtube.com/watch?v=7MXQSbjBL7Q)
 - [Technocalyps II, Preparing for the Singularity](https://www.youtube.com/watch?v=6hcjT1U-p2E)
 - [TechnoCalyps Part III The Digital Messiah](https://www.youtube.com/watch?v=EvWuF_KXuDk)
-- [Künstliche Unsterblichkeit (2021) Der KI-Dokumentarfilm](https://www.youtube.com/watch?v=P7vkaR6gdMI)
 - [OpenAI iHUMAN](https://www.youtube.com/watch?v=jW9XOYycFz0)
-- [Der neue Gott - Wie künstliche Intelligenz die Welt verändert ](https://www.youtube.com/watch?v=QXciaywtKYg)
-- [Künstliche Intelligenz. Zukunft oder Bedrohung? | Doku [HD]](https://www.youtube.com/watch?v=nFnojsGDG0U)
-- [Flash Wars | Doku HD | ARTE](https://www.youtube.com/watch?v=ZD8P-OGLELI)
-- [Schlaue neue Welt - Das KI-Wettrennen](https://www.youtube.com/watch?v=EJsa6wZ6ovY)
 - [Artificial Intelligence | 60 Minutes Full Episodes](https://www.youtube.com/watch?v=aZ5EsdnpLMI)
 - [Slaughterbots](https://www.youtube.com/watch?v=O-2tpwW0kmU)
 - [Slaughterbots II](https://www.youtube.com/watch?v=9rDo1QxI260)
@@ -451,11 +444,28 @@ built on top of the Python programming language
 - ["Godfather of AI" Geoffrey Hinton: The 60 Minutes Interview](https://www.youtube.com/watch?v=qrvK_KuIeJk)
 - [DeepMind: The Quest to Develop Artificial General Intelligence](https://www.youtube.com/watch?v=kFlLzFuslfQ)
 - [Transcendent Man by Ray Kurzweil](https://www.youtube.com/watch?v=rlUNSyTuauM)
+
+
+### German
+
+- [Künstliche Intelligenz - Haben Maschinen Gefühle?](https://www.youtube.com/watch?v=BJYX-9zhbdE)
+- [Die neue industrielle Revolution](https://www.youtube.com/watch?v=Hf6pIL0HU4s)
+- [Cyberwelt - Die Zukunft ist jetzt ](https://www.youtube.com/watch?v=FZWBTVQKdcU)
 - [Von Chatbots bis zu Waffensystemen - Fluch und Segen der Künstlichen Intelligenz](https://www.youtube.com/watch?v=oNk6ESLpxKI&t=17s)
 - [Die Megamacht der Mikrochips | Doku HD Reupload | ARTE](https://www.youtube.com/watch?v=D5mFvj6lQA0)
 - [Revolution Of Artificial Intelligence](https://www.youtube.com/watch?v=MXkoN4rql3g)
 - [Der unsichtbare Krieg | Doku HD | ARTE](https://www.youtube.com/watch?v=caSHlWJ38HE)
 - [Pegasus - Der Feind liest mit ](https://www.youtube.com/watch?v=WXxbAc2L1V8)
+- [Der neue Gott - Wie künstliche Intelligenz die Welt verändert ](https://www.youtube.com/watch?v=QXciaywtKYg)
+- [Künstliche Intelligenz. Zukunft oder Bedrohung? | Doku [HD]](https://www.youtube.com/watch?v=nFnojsGDG0U)
+- [Flash Wars | Doku HD | ARTE](https://www.youtube.com/watch?v=ZD8P-OGLELI)
+- [Schlaue neue Welt - Das KI-Wettrennen](https://www.youtube.com/watch?v=EJsa6wZ6ovY)
+- [Künstliche Unsterblichkeit (2021) Der KI-Dokumentarfilm](https://www.youtube.com/watch?v=P7vkaR6gdMI)
+
+## Newspaper
+
+- [New York Times: The Great A.I. Awakening](https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html)
+- [Financial Times: Generative AI exists because of the transformer](https://ig.ft.com/generative-ai/)
 
 ## Further
 
