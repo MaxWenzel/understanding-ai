@@ -423,7 +423,7 @@ built on top of the Python programming language
 
 ## Movies
 
-
+- [Geoffrey Hinton | On working with Ilya, choosing problems, and the power of intuition](https://www.youtube.com/watch?v=n4IQOBka8bc)
 - [Lo and Behold, Reveries of the Connected World](https://www.youtube.com/watch?v=SQDMokwTRnU)
 - [The Rise of AI](https://www.youtube.com/watch?v=Dk7h22mRYHQ)
 - [Machine Learning: Living in the Age of A](https://www.youtube.com/watch?v=ZJixNvx9BAc)
