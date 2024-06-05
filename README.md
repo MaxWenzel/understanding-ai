@@ -31,6 +31,7 @@ Collection of AI relevant stuff
 - [Build AI for a Better Future](https://openletter.svangel.com/)
 - [Statement on AI Risk](https://www.safe.ai/statement-on-ai-risk)
 - [Future of Life](https://futureoflife.org/fli-open-letters/)
+- [A Right to Warn about Advanced Artificial Intelligence](https://righttowarn.ai/)
 
 ## Guides and Principles
 
@@ -257,6 +258,7 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 
 ## Important Papers
 
+- [xLSTM: Extended Long Short-Term Memory](https://arxiv.org/abs/2405.04517)
 - [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971)
 - [Computing machinery and intelligence](https://academic.oup.com/mind/article/LIX/236/433/986238#164226651)
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
