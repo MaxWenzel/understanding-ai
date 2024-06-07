@@ -450,6 +450,8 @@ built on top of the Python programming language
 
 ### German
 
+- [Wie Künstliche Intelligenz den Krieg in der Ukraine mit entscheidet ](https://www.youtube.com/watch?v=X_twjU7sv_g)
+- [Autonome Kriegsmaschinen: Wo Drohnen mit Künstlicher Intelligenz im Einsatz sind](https://www.youtube.com/watch?v=XbKemARz8vo)
 - [Armee der Zukunft: Drohnen und autonome Waffen | ZDFinfo Doku](https://www.youtube.com/watch?v=t85hbZYgjJs)
 - [Künstliche Intelligenz - Haben Maschinen Gefühle?](https://www.youtube.com/watch?v=BJYX-9zhbdE)
 - [Die neue industrielle Revolution](https://www.youtube.com/watch?v=Hf6pIL0HU4s)
