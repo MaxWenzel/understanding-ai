@@ -450,6 +450,7 @@ built on top of the Python programming language
 
 ### German
 
+- [Armee der Zukunft: Drohnen und autonome Waffen | ZDFinfo Doku](https://www.youtube.com/watch?v=t85hbZYgjJs)
 - [Künstliche Intelligenz - Haben Maschinen Gefühle?](https://www.youtube.com/watch?v=BJYX-9zhbdE)
 - [Die neue industrielle Revolution](https://www.youtube.com/watch?v=Hf6pIL0HU4s)
 - [Cyberwelt - Die Zukunft ist jetzt ](https://www.youtube.com/watch?v=FZWBTVQKdcU)
