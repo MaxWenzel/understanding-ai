@@ -466,6 +466,7 @@ built on top of the Python programming language
 
 ## Newspaper
 
+- [New York Times: OpenAI Insiders Warn of a ‘Reckless’ Race for Dominance](https://www.nytimes.com/2024/06/04/technology/openai-culture-whistleblowers.html?)
 - [New York Times: The Great A.I. Awakening](https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html)
 - [Financial Times: Generative AI exists because of the transformer](https://ig.ft.com/generative-ai/)
 
