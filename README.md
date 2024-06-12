@@ -450,6 +450,7 @@ built on top of the Python programming language
 
 ### German
 
+- [Die Gefahren der KI | Neue Technologien](https://www.youtube.com/watch?v=Gb3-KRKH-sA)
 - [Wie Künstliche Intelligenz den Krieg in der Ukraine mit entscheidet ](https://www.youtube.com/watch?v=X_twjU7sv_g)
 - [Autonome Kriegsmaschinen: Wo Drohnen mit Künstlicher Intelligenz im Einsatz sind](https://www.youtube.com/watch?v=XbKemARz8vo)
 - [Armee der Zukunft: Drohnen und autonome Waffen | ZDFinfo Doku](https://www.youtube.com/watch?v=t85hbZYgjJs)
