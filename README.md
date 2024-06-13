@@ -450,6 +450,9 @@ built on top of the Python programming language
 
 ### German
 
+- [Ist das Metaverse real? | 42](https://www.youtube.com/watch?v=0K6A06ovAC0)
+- [Chinas digitales Überwachungssystem – die totale Kontrolle?](https://www.youtube.com/watch?v=ZpZ2NF_MOKE)
+- [Übernehmen jetzt die Maschinen?](https://www.youtube.com/watch?v=1psdEaV30Ok)
 - [Cyberwelt - Die Zukunft ist jetzt | Doku HD Reupload | ARTE](https://www.youtube.com/watch?v=FZWBTVQKdcU)
 - [Die Gefahren der KI | Neue Technologien](https://www.youtube.com/watch?v=Gb3-KRKH-sA)
 - [Wie Künstliche Intelligenz den Krieg in der Ukraine mit entscheidet ](https://www.youtube.com/watch?v=X_twjU7sv_g)
