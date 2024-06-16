@@ -32,6 +32,7 @@ Collection of AI relevant stuff
 - [Statement on AI Risk](https://www.safe.ai/statement-on-ai-risk)
 - [Future of Life](https://futureoflife.org/fli-open-letters/)
 - [A Right to Warn about Advanced Artificial Intelligence](https://righttowarn.ai/)
+- [Call for AI Ethics](https://www.romecall.org/the-call/)
 
 ## Guides and Principles
 
