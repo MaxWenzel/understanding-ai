@@ -426,6 +426,8 @@ built on top of the Python programming language
 
 ## Movies
 
+- [On leadership | Jensen Huang and Joel Hellermark](https://www.youtube.com/watch?v=h5xY_kRKHxE)
+- [Max Tegmark | On superhuman AI, future architectures, and the meaning of human existence](https://www.youtube.com/watch?v=_-Xdkzi8H_o)
 - [Geoffrey Hinton | On working with Ilya, choosing problems, and the power of intuition](https://www.youtube.com/watch?v=n4IQOBka8bc)
 - [Lo and Behold, Reveries of the Connected World](https://www.youtube.com/watch?v=SQDMokwTRnU)
 - [The Rise of AI](https://www.youtube.com/watch?v=Dk7h22mRYHQ)
