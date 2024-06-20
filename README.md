@@ -480,6 +480,11 @@ built on top of the Python programming language
 - [New York Times: The Great A.I. Awakening](https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html)
 - [Financial Times: Generative AI exists because of the transformer](https://ig.ft.com/generative-ai/)
 
+## Blogs
+
+- [A Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
+- [A Better Lesson ](https://rodneybrooks.com/a-better-lesson/)
+
 ## Further
 
 - Arte: Killerroboter - KI im Krieg
