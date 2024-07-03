@@ -310,6 +310,15 @@ interactive data analytics and collaborative documents with SQL, Scala, Python, 
 - [Gradio](https://www.gradio.app/):an open-source Python library that is used to build machine learning and data science demos and web applications.
 - [Streamlit](https://streamlit.io/): turn data scripts into shareable web apps
 
+### Grafik
+
+- [Bokeh](https://bokeh.org/): a Python library for creating interactive visualizations for modern web browsers. 
+- [Vega-Altair](https://altair-viz.github.io/): a declarative statistical visualization library for Python.
+- [Plotly](https://plotly.com/python/): Python graphing library makes interactive, publication-quality graphs. Examples of how to make line plots, scatter plots, area charts, bar charts, error bars, box plots, histograms, heatmaps, subplots, multiple-axes, polar charts, and bubble charts.
+- [pydeck](https://deckgl.readthedocs.io/en/latest/#): set of Python bindings for making spatial visualizations with deck.gl, optimized for a Jupyter environment. 
+- [Seaborn](https://seaborn.pydata.org/): a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
+- [Matplotlib](https://matplotlib.org/stable/): a comprehensive library for creating static, animated, and interactive visualizations.
+
 ### Python (and other)
 
 - [NVIDIA NeMo](https://github.com/NVIDIA/NeMo): a toolkit for creating Conversational AI applications.
