@@ -489,6 +489,12 @@ built on top of the Python programming language
 - [New York Times: The Great A.I. Awakening](https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html)
 - [Financial Times: Generative AI exists because of the transformer](https://ig.ft.com/generative-ai/)
 
+## Studies
+
+- [The impact of AI on the workplace: Evidence from OECD case studies of AI implementation](https://www.oecd.org/en/publications/the-impact-of-ai-on-the-workplace-evidence-from-oecd-case-studies-of-ai-implementation_2247ce58-en.html)
+- [Gen-AI: Artificial Intelligence and the Future of Work](https://www.imf.org/en/Publications/Staff-Discussion-Notes/Issues/2024/01/14/Gen-AI-Artificial-Intelligence-and-the-Future-of-Work-542379)
+- [](http://prod.mckinsey.de/~/media/mckinsey/locations/europe%20and%20middle%20east/deutschland/news/presse/2024/2024%20-%2005%20-%2023%20mgi%20genai%20future%20of%20work/mgi%20report_a-new-future-of-work-the-race-to-deploy-ai.pdf)
+
 ## Blogs
 
 - [A Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html)
