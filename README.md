@@ -435,6 +435,7 @@ built on top of the Python programming language
 
 ## Movies
 
+- [A.I. ‐ Humanity's Final Invention?](https://www.youtube.com/watch?v=fa8k8IQ1_X0)
 - [On leadership | Jensen Huang and Joel Hellermark](https://www.youtube.com/watch?v=h5xY_kRKHxE)
 - [Max Tegmark | On superhuman AI, future architectures, and the meaning of human existence](https://www.youtube.com/watch?v=_-Xdkzi8H_o)
 - [Geoffrey Hinton | On working with Ilya, choosing problems, and the power of intuition](https://www.youtube.com/watch?v=n4IQOBka8bc)
