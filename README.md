@@ -435,6 +435,7 @@ built on top of the Python programming language
 
 ## Movies
 
+- [The Potential for AI in Science and Mathematics - Terence Tao](https://www.youtube.com/watch?v=_sTDSO74D8Q)
 - [A.I. ‐ Humanity's Final Invention?](https://www.youtube.com/watch?v=fa8k8IQ1_X0)
 - [On leadership | Jensen Huang and Joel Hellermark](https://www.youtube.com/watch?v=h5xY_kRKHxE)
 - [Max Tegmark | On superhuman AI, future architectures, and the meaning of human existence](https://www.youtube.com/watch?v=_-Xdkzi8H_o)
