@@ -1,6 +1,11 @@
 # understanding-ai
 Collection of AI relevant stuff
 
+## AI in Software Engineering
+
+- [Generative AI in Software Engineering: Transforming the Software Development Process](https://www.dfki.de/web/news/wie-generative-ki-die-softwareentwicklung-transformiert-dfki-und-accenture-veroeffentlichen-gemeinsames-whitepaper)
+- [Does AI Actually Boost Developer Productivity?](https://www.youtube.com/watch?v=tbDDYKRFjhk)
+
 ## Reinforcement Learning
 
 - [Stanford CS234: Reinforcement Learning in Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
